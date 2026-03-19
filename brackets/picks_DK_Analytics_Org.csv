@@ -1,0 +1,64 @@
+Round,Region,Game,Pick,Over,Pick_Prob
+R64,East,1,(1) Duke,(16) Siena,100%
+R64,East,2,(8) Ohio St.,(9) TCU,100%
+R64,East,3,(5) St. John's,(12) Northern Iowa,100%
+R64,East,4,(4) Kansas,(13) Cal Baptist,100%
+R64,East,5,(6) Louisville,(11) South Florida,100%
+R64,East,6,(3) Michigan St.,(14) North Dakota St.,100%
+R64,East,7,(7) UCLA,(10) UCF,100%
+R64,East,8,(2) UConn,(15) Furman,100%
+R32,East,1,(1) Duke,(8) Ohio St.,97%
+R32,East,2,(5) St. John's,(4) Kansas,83%
+R32,East,3,(6) Louisville,(3) Michigan St.,79%
+R32,East,4,(7) UCLA,(2) UConn,83%
+S16,East,1,(1) Duke,(5) St. John's,88%
+S16,East,2,(6) Louisville,(7) UCLA,39%
+E8,East,1,(1) Duke,(6) Louisville,76%
+R64,West,1,(1) Arizona,(16) Long Island,100%
+R64,West,2,(8) Villanova,(9) Utah St.,100%
+R64,West,3,(5) Wisconsin,(12) High Point,100%
+R64,West,4,(4) Arkansas,(13) Hawaii,100%
+R64,West,5,(11) Texas,(6) BYU,100%
+R64,West,6,(3) Gonzaga,(14) Kennesaw St.,100%
+R64,West,7,(7) Miami (FL),(10) Missouri,100%
+R64,West,8,(2) Purdue,(15) Queens (N.C.),100%
+R32,West,1,(1) Arizona,(8) Villanova,98%
+R32,West,2,(5) Wisconsin,(4) Arkansas,91%
+R32,West,3,(3) Gonzaga,(11) Texas,95%
+R32,West,4,(2) Purdue,(7) Miami (FL),97%
+S16,West,1,(1) Arizona,(5) Wisconsin,89%
+S16,West,2,(2) Purdue,(3) Gonzaga,82%
+E8,West,1,(1) Arizona,(2) Purdue,77%
+R64,South,1,(1) Florida,(16) Prairie View A&M,100%
+R64,South,2,(9) Iowa,(8) Clemson,100%
+R64,South,3,(5) Vanderbilt,(12) McNeese,100%
+R64,South,4,(4) Nebraska,(13) Troy,100%
+R64,South,5,(6) North Carolina,(11) VCU,100%
+R64,South,6,(3) Illinois,(14) Penn,100%
+R64,South,7,(7) Saint Mary's,(10) Texas A&M,100%
+R64,South,8,(2) Houston,(15) Idaho,100%
+R32,South,1,(1) Florida,(9) Iowa,97%
+R32,South,2,(5) Vanderbilt,(4) Nebraska,89%
+R32,South,3,(3) Illinois,(6) North Carolina,96%
+R32,South,4,(2) Houston,(7) Saint Mary's,97%
+S16,South,1,(1) Florida,(5) Vanderbilt,85%
+S16,South,2,(3) Illinois,(2) Houston,79%
+E8,South,1,(3) Illinois,(1) Florida,46%
+R64,Midwest,1,(1) Michigan,(16) Howard,100%
+R64,Midwest,2,(8) Georgia,(9) Saint Louis,100%
+R64,Midwest,3,(5) Texas Tech,(12) Akron,100%
+R64,Midwest,4,(4) Alabama,(13) Hofstra,100%
+R64,Midwest,5,(6) Tennessee,(11) Miami (OH),100%
+R64,Midwest,6,(3) Virginia,(14) Wright St.,100%
+R64,Midwest,7,(10) Santa Clara,(7) Kentucky,100%
+R64,Midwest,8,(2) Iowa St.,(15) Tennessee St.,100%
+R32,Midwest,1,(1) Michigan,(8) Georgia,97%
+R32,Midwest,2,(5) Texas Tech,(4) Alabama,91%
+R32,Midwest,3,(6) Tennessee,(3) Virginia,84%
+R32,Midwest,4,(2) Iowa St.,(10) Santa Clara,97%
+S16,Midwest,1,(1) Michigan,(5) Texas Tech,91%
+S16,Midwest,2,(6) Tennessee,(2) Iowa St.,43%
+E8,Midwest,1,(1) Michigan,(6) Tennessee,77%
+F4,East vs West,1,(1) Duke,(1) Arizona,38%
+F4,South vs Midwest,2,(3) Illinois,(1) Michigan,13%
+Championship,Final,1,(3) Illinois,(1) Duke,5%
