@@ -59,6 +59,6 @@ R32,Midwest,4,(2) Iowa St.,(7) Kentucky,97%
 S16,Midwest,1,(1) Michigan,(5) Texas Tech,91%
 S16,Midwest,2,(2) Iowa St.,(6) Tennessee,74%
 E8,Midwest,1,(1) Michigan,(2) Iowa St.,77%
-F4,East vs West,1,(1) Duke,(1) Arizona,38%
-F4,South vs Midwest,2,(1) Michigan,(1) Florida,40%
+F4,East vs South,1,(1) Duke,(1) Florida,38%
+F4,West vs Midwest,2,(1) Michigan,(1) Arizona,40%
 Championship,Final,1,(1) Michigan,(1) Duke,25%
