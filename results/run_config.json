@@ -1,0 +1,16 @@
+{
+  "sim_config": {
+    "n_sims": 1000000,
+    "batch_size": 25000
+  },
+  "seed": 202654,
+  "n_sims_actual": 1000000,
+  "timestamp": "2026-03-18T23:10:21.890440",
+  "models_used": [
+    "LogReg",
+    "XGBoost",
+    "RandomForest",
+    "NeuralNet",
+    "BayesLR"
+  ]
+}

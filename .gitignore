@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.pyct
+*.pyc
+
+# Data files
+data/raw/
+cache/
+
+# Environment
+venv/
+env/
+.env
+
+# OS
+.DS_Store

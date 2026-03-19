@@ -1,0 +1,1450 @@
+season,round,round_num,team1,seed1,score1,team2,seed2,score2,winner,winner_idx,score_diff
+2002,R64,1,Maryland,1.0,85.0,Siena,16.0,70.0,Maryland,1.0,15.0
+2002,R64,1,Wisconsin,8.0,80.0,St. John's (NY),9.0,70.0,Wisconsin,1.0,10.0
+2002,R64,1,Marquette,5.0,69.0,Tulsa,12.0,71.0,Tulsa,2.0,-2.0
+2002,R64,1,Kentucky,4.0,83.0,Valparaiso,13.0,68.0,Kentucky,1.0,15.0
+2002,R64,1,Texas Tech,6.0,68.0,Southern Illinois,11.0,76.0,Southern Illinois,2.0,-8.0
+2002,R64,1,Georgia,3.0,85.0,Murray State,14.0,68.0,Georgia,1.0,17.0
+2002,R64,1,NC State,7.0,69.0,Michigan State,10.0,58.0,NC State,1.0,11.0
+2002,R64,1,UConn,2.0,78.0,Hampton,15.0,67.0,UConn,1.0,11.0
+2002,R32,2,Maryland,1.0,87.0,Wisconsin,8.0,57.0,Maryland,1.0,30.0
+2002,R32,2,Tulsa,12.0,82.0,Kentucky,4.0,87.0,Kentucky,2.0,-5.0
+2002,R32,2,Southern Illinois,11.0,77.0,Georgia,3.0,75.0,Southern Illinois,1.0,2.0
+2002,R32,2,NC State,7.0,74.0,UConn,2.0,77.0,UConn,2.0,-3.0
+2002,S16,3,Maryland,1.0,78.0,Kentucky,4.0,68.0,Maryland,1.0,10.0
+2002,S16,3,Southern Illinois,11.0,59.0,UConn,2.0,71.0,UConn,2.0,-12.0
+2002,E8,4,Maryland,1.0,90.0,UConn,2.0,82.0,Maryland,1.0,8.0
+2002,R64,1,Kansas,1.0,70.0,Holy Cross,16.0,59.0,Kansas,1.0,11.0
+2002,R64,1,Stanford,8.0,84.0,Western Kentucky,9.0,68.0,Stanford,1.0,16.0
+2002,R64,1,Florida,5.0,82.0,Creighton,12.0,83.0,Creighton,2.0,-1.0
+2002,R64,1,Illinois,4.0,93.0,San Diego State,13.0,64.0,Illinois,1.0,29.0
+2002,R64,1,Texas,6.0,70.0,Boston College,11.0,57.0,Texas,1.0,13.0
+2002,R64,1,Mississippi State,3.0,70.0,McNeese,14.0,58.0,Mississippi State,1.0,12.0
+2002,R64,1,Wake Forest,7.0,83.0,Pepperdine,10.0,74.0,Wake Forest,1.0,9.0
+2002,R64,1,Oregon,2.0,81.0,Montana,15.0,62.0,Oregon,1.0,19.0
+2002,R32,2,Kansas,1.0,86.0,Stanford,8.0,63.0,Kansas,1.0,23.0
+2002,R32,2,Creighton,12.0,60.0,Illinois,4.0,72.0,Illinois,2.0,-12.0
+2002,R32,2,Texas,6.0,68.0,Mississippi State,3.0,64.0,Texas,1.0,4.0
+2002,R32,2,Wake Forest,7.0,87.0,Oregon,2.0,92.0,Oregon,2.0,-5.0
+2002,S16,3,Kansas,1.0,73.0,Illinois,4.0,69.0,Kansas,1.0,4.0
+2002,S16,3,Texas,6.0,70.0,Oregon,2.0,72.0,Oregon,2.0,-2.0
+2002,E8,4,Kansas,1.0,104.0,Oregon,2.0,86.0,Kansas,1.0,18.0
+2002,R64,1,Duke,1.0,84.0,Winthrop,16.0,37.0,Duke,1.0,47.0
+2002,R64,1,Notre Dame,8.0,82.0,Charlotte,9.0,63.0,Notre Dame,1.0,19.0
+2002,R64,1,Indiana,5.0,75.0,Utah,12.0,56.0,Indiana,1.0,19.0
+2002,R64,1,USC,4.0,89.0,UNC Wilmington,13.0,93.0,UNC Wilmington,2.0,-4.0
+2002,R64,1,California,6.0,82.0,Penn,11.0,75.0,California,1.0,7.0
+2002,R64,1,Pitt,3.0,71.0,Central Connecticut,14.0,54.0,Pitt,1.0,17.0
+2002,R64,1,Oklahoma State,7.0,61.0,Kent State,10.0,69.0,Kent State,2.0,-8.0
+2002,R64,1,Alabama,2.0,86.0,Florida Atlantic,15.0,78.0,Alabama,1.0,8.0
+2002,R32,2,Duke,1.0,84.0,Notre Dame,8.0,77.0,Duke,1.0,7.0
+2002,R32,2,Indiana,5.0,76.0,UNC Wilmington,13.0,67.0,Indiana,1.0,9.0
+2002,R32,2,California,6.0,50.0,Pitt,3.0,63.0,Pitt,2.0,-13.0
+2002,R32,2,Kent State,10.0,71.0,Alabama,2.0,58.0,Kent State,1.0,13.0
+2002,S16,3,Duke,1.0,73.0,Indiana,5.0,74.0,Indiana,2.0,-1.0
+2002,S16,3,Pitt,3.0,73.0,Kent State,10.0,78.0,Kent State,2.0,-5.0
+2002,E8,4,Indiana,5.0,81.0,Kent State,10.0,69.0,Indiana,1.0,12.0
+2002,R64,1,Cincinnati,1.0,90.0,Boston University,16.0,52.0,Cincinnati,1.0,38.0
+2002,R64,1,UCLA,8.0,80.0,Ole Miss,9.0,58.0,UCLA,1.0,22.0
+2002,R64,1,Miami (FL),5.0,80.0,Missouri,12.0,93.0,Missouri,2.0,-13.0
+2002,R64,1,Ohio State,4.0,69.0,Davidson,13.0,64.0,Ohio State,1.0,5.0
+2002,R64,1,Gonzaga,6.0,66.0,Wyoming,11.0,73.0,Wyoming,2.0,-7.0
+2002,R64,1,Arizona,3.0,86.0,UC Santa Barbara,14.0,81.0,Arizona,1.0,5.0
+2002,R64,1,Xavier,7.0,70.0,Hawaii,10.0,58.0,Xavier,1.0,12.0
+2002,R64,1,Oklahoma,2.0,71.0,UIC,15.0,63.0,Oklahoma,1.0,8.0
+2002,R32,2,Cincinnati,1.0,101.0,UCLA,8.0,105.0,UCLA,2.0,-4.0
+2002,R32,2,Missouri,12.0,83.0,Ohio State,4.0,67.0,Missouri,1.0,16.0
+2002,R32,2,Wyoming,11.0,60.0,Arizona,3.0,68.0,Arizona,2.0,-8.0
+2002,R32,2,Xavier,7.0,65.0,Oklahoma,2.0,78.0,Oklahoma,2.0,-13.0
+2002,S16,3,UCLA,8.0,73.0,Missouri,12.0,82.0,Missouri,2.0,-9.0
+2002,S16,3,Arizona,3.0,67.0,Oklahoma,2.0,88.0,Oklahoma,2.0,-21.0
+2002,E8,4,Missouri,12.0,75.0,Oklahoma,2.0,81.0,Oklahoma,2.0,-6.0
+2002,F4,5,Maryland,1.0,97.0,Kansas,1.0,88.0,Maryland,1.0,9.0
+2002,F4,5,Indiana,5.0,73.0,Oklahoma,2.0,64.0,Indiana,1.0,9.0
+2002,Championship,6,Maryland,1.0,64.0,Indiana,5.0,52.0,Maryland,1.0,12.0
+2003,R64,1,Oklahoma,1.0,71.0,South Carolina State,16.0,54.0,Oklahoma,1.0,17.0
+2003,R64,1,California,8.0,76.0,NC State,9.0,74.0,California,1.0,2.0
+2003,R64,1,Mississippi State,5.0,46.0,Butler,12.0,47.0,Butler,2.0,-1.0
+2003,R64,1,Louisville,4.0,86.0,Austin Peay,13.0,64.0,Louisville,1.0,22.0
+2003,R64,1,Oklahoma State,6.0,77.0,Penn,11.0,63.0,Oklahoma State,1.0,14.0
+2003,R64,1,Syracuse,3.0,76.0,Manhattan,14.0,65.0,Syracuse,1.0,11.0
+2003,R64,1,Saint Joseph's,7.0,63.0,Auburn,10.0,65.0,Auburn,2.0,-2.0
+2003,R64,1,Wake Forest,2.0,76.0,ETSU,15.0,73.0,Wake Forest,1.0,3.0
+2003,R32,2,Oklahoma,1.0,74.0,California,8.0,65.0,Oklahoma,1.0,9.0
+2003,R32,2,Butler,12.0,79.0,Louisville,4.0,71.0,Butler,1.0,8.0
+2003,R32,2,Oklahoma State,6.0,56.0,Syracuse,3.0,68.0,Syracuse,2.0,-12.0
+2003,R32,2,Auburn,10.0,68.0,Wake Forest,2.0,62.0,Auburn,1.0,6.0
+2003,S16,3,Oklahoma,1.0,65.0,Butler,12.0,54.0,Oklahoma,1.0,11.0
+2003,S16,3,Syracuse,3.0,79.0,Auburn,10.0,78.0,Syracuse,1.0,1.0
+2003,E8,4,Oklahoma,1.0,47.0,Syracuse,3.0,63.0,Syracuse,2.0,-16.0
+2003,R64,1,Kentucky,1.0,95.0,IU Indianapolis,16.0,64.0,Kentucky,1.0,31.0
+2003,R64,1,Oregon,8.0,58.0,Utah,9.0,60.0,Utah,2.0,-2.0
+2003,R64,1,Wisconsin,5.0,81.0,Weber State,12.0,74.0,Wisconsin,1.0,7.0
+2003,R64,1,Dayton,4.0,71.0,Tulsa,13.0,84.0,Tulsa,2.0,-13.0
+2003,R64,1,Missouri,6.0,72.0,Southern Illinois,11.0,71.0,Missouri,1.0,1.0
+2003,R64,1,Marquette,3.0,72.0,Holy Cross,14.0,68.0,Marquette,1.0,4.0
+2003,R64,1,Indiana,7.0,67.0,Alabama,10.0,62.0,Indiana,1.0,5.0
+2003,R64,1,Pitt,2.0,87.0,Wagner,15.0,61.0,Pitt,1.0,26.0
+2003,R32,2,Kentucky,1.0,74.0,Utah,9.0,54.0,Kentucky,1.0,20.0
+2003,R32,2,Wisconsin,5.0,61.0,Tulsa,13.0,60.0,Wisconsin,1.0,1.0
+2003,R32,2,Missouri,6.0,92.0,Marquette,3.0,101.0,Marquette,2.0,-9.0
+2003,R32,2,Indiana,7.0,52.0,Pitt,2.0,74.0,Pitt,2.0,-22.0
+2003,S16,3,Kentucky,1.0,63.0,Wisconsin,5.0,57.0,Kentucky,1.0,6.0
+2003,S16,3,Marquette,3.0,77.0,Pitt,2.0,74.0,Marquette,1.0,3.0
+2003,E8,4,Kentucky,1.0,69.0,Marquette,3.0,83.0,Marquette,2.0,-14.0
+2003,R64,1,Texas,1.0,82.0,UNC Asheville,16.0,61.0,Texas,1.0,21.0
+2003,R64,1,LSU,8.0,56.0,Purdue,9.0,80.0,Purdue,2.0,-24.0
+2003,R64,1,UConn,5.0,58.0,BYU,12.0,53.0,UConn,1.0,5.0
+2003,R64,1,Stanford,4.0,77.0,San Diego,13.0,69.0,Stanford,1.0,8.0
+2003,R64,1,Maryland,6.0,75.0,UNC Wilmington,11.0,73.0,Maryland,1.0,2.0
+2003,R64,1,Xavier,3.0,71.0,Troy,14.0,59.0,Xavier,1.0,12.0
+2003,R64,1,Michigan State,7.0,79.0,Colorado,10.0,64.0,Michigan State,1.0,15.0
+2003,R64,1,Florida,2.0,85.0,Sam Houston,15.0,55.0,Florida,1.0,30.0
+2003,R32,2,Texas,1.0,77.0,Purdue,9.0,67.0,Texas,1.0,10.0
+2003,R32,2,UConn,5.0,85.0,Stanford,4.0,74.0,UConn,1.0,11.0
+2003,R32,2,Maryland,6.0,77.0,Xavier,3.0,64.0,Maryland,1.0,13.0
+2003,R32,2,Michigan State,7.0,68.0,Florida,2.0,46.0,Michigan State,1.0,22.0
+2003,S16,3,Texas,1.0,82.0,UConn,5.0,78.0,Texas,1.0,4.0
+2003,S16,3,Maryland,6.0,58.0,Michigan State,7.0,60.0,Michigan State,2.0,-2.0
+2003,E8,4,Texas,1.0,85.0,Michigan State,7.0,76.0,Texas,1.0,9.0
+2003,R64,1,Arizona,1.0,80.0,Vermont,16.0,51.0,Arizona,1.0,29.0
+2003,R64,1,Cincinnati,8.0,69.0,Gonzaga,9.0,74.0,Gonzaga,2.0,-5.0
+2003,R64,1,Notre Dame,5.0,70.0,Milwaukee,12.0,69.0,Notre Dame,1.0,1.0
+2003,R64,1,Illinois,4.0,65.0,Western Kentucky,13.0,60.0,Illinois,1.0,5.0
+2003,R64,1,Creighton,6.0,73.0,Central Michigan,11.0,79.0,Central Michigan,2.0,-6.0
+2003,R64,1,Duke,3.0,67.0,Colorado State,14.0,57.0,Duke,1.0,10.0
+2003,R64,1,Memphis,7.0,71.0,Arizona State,10.0,84.0,Arizona State,2.0,-13.0
+2003,R64,1,Kansas,2.0,64.0,Utah State,15.0,61.0,Kansas,1.0,3.0
+2003,R32,2,Arizona,1.0,96.0,Gonzaga,9.0,95.0,Arizona,1.0,1.0
+2003,R32,2,Notre Dame,5.0,68.0,Illinois,4.0,60.0,Notre Dame,1.0,8.0
+2003,R32,2,Central Michigan,11.0,60.0,Duke,3.0,86.0,Duke,2.0,-26.0
+2003,R32,2,Arizona State,10.0,76.0,Kansas,2.0,108.0,Kansas,2.0,-32.0
+2003,S16,3,Arizona,1.0,88.0,Notre Dame,5.0,71.0,Arizona,1.0,17.0
+2003,S16,3,Duke,3.0,65.0,Kansas,2.0,69.0,Kansas,2.0,-4.0
+2003,E8,4,Arizona,1.0,75.0,Kansas,2.0,78.0,Kansas,2.0,-3.0
+2003,F4,5,Syracuse,3.0,95.0,Texas,1.0,84.0,Syracuse,1.0,11.0
+2003,F4,5,Marquette,3.0,61.0,Kansas,2.0,94.0,Kansas,2.0,-33.0
+2003,Championship,6,Syracuse,3.0,81.0,Kansas,2.0,78.0,Syracuse,1.0,3.0
+2004,R64,1,Duke,1.0,96.0,Alabama State,16.0,61.0,Duke,1.0,35.0
+2004,R64,1,Seton Hall,8.0,80.0,Arizona,9.0,76.0,Seton Hall,1.0,4.0
+2004,R64,1,Illinois,5.0,72.0,Murray State,12.0,53.0,Illinois,1.0,19.0
+2004,R64,1,Cincinnati,4.0,80.0,ETSU,13.0,77.0,Cincinnati,1.0,3.0
+2004,R64,1,UNC,6.0,63.0,Air Force,11.0,52.0,UNC,1.0,11.0
+2004,R64,1,Texas,3.0,66.0,Princeton,14.0,49.0,Texas,1.0,17.0
+2004,R64,1,Xavier,7.0,80.0,Louisville,10.0,70.0,Xavier,1.0,10.0
+2004,R64,1,Mississippi State,2.0,85.0,Monmouth,15.0,52.0,Mississippi State,1.0,33.0
+2004,R32,2,Duke,1.0,90.0,Seton Hall,8.0,62.0,Duke,1.0,28.0
+2004,R32,2,Illinois,5.0,92.0,Cincinnati,4.0,68.0,Illinois,1.0,24.0
+2004,R32,2,UNC,6.0,75.0,Texas,3.0,78.0,Texas,2.0,-3.0
+2004,R32,2,Xavier,7.0,89.0,Mississippi State,2.0,74.0,Xavier,1.0,15.0
+2004,S16,3,Duke,1.0,72.0,Illinois,5.0,62.0,Duke,1.0,10.0
+2004,S16,3,Texas,3.0,71.0,Xavier,7.0,79.0,Xavier,2.0,-8.0
+2004,E8,4,Duke,1.0,66.0,Xavier,7.0,63.0,Duke,1.0,3.0
+2004,R64,1,Saint Joseph's,1.0,82.0,Liberty,16.0,63.0,Saint Joseph's,1.0,19.0
+2004,R64,1,Texas Tech,8.0,76.0,Charlotte,9.0,73.0,Texas Tech,1.0,3.0
+2004,R64,1,Florida,5.0,60.0,Manhattan,12.0,75.0,Manhattan,2.0,-15.0
+2004,R64,1,Wake Forest,4.0,79.0,VCU,13.0,78.0,Wake Forest,1.0,1.0
+2004,R64,1,Wisconsin,6.0,76.0,Richmond,11.0,64.0,Wisconsin,1.0,12.0
+2004,R64,1,Pitt,3.0,53.0,UCF,14.0,44.0,Pitt,1.0,9.0
+2004,R64,1,Memphis,7.0,59.0,South Carolina,10.0,43.0,Memphis,1.0,16.0
+2004,R64,1,Oklahoma State,2.0,75.0,Eastern Washington,15.0,56.0,Oklahoma State,1.0,19.0
+2004,R32,2,Saint Joseph's,1.0,70.0,Texas Tech,8.0,65.0,Saint Joseph's,1.0,5.0
+2004,R32,2,Manhattan,12.0,80.0,Wake Forest,4.0,84.0,Wake Forest,2.0,-4.0
+2004,R32,2,Wisconsin,6.0,55.0,Pitt,3.0,59.0,Pitt,2.0,-4.0
+2004,R32,2,Memphis,7.0,53.0,Oklahoma State,2.0,70.0,Oklahoma State,2.0,-17.0
+2004,S16,3,Saint Joseph's,1.0,84.0,Wake Forest,4.0,80.0,Saint Joseph's,1.0,4.0
+2004,S16,3,Pitt,3.0,51.0,Oklahoma State,2.0,63.0,Oklahoma State,2.0,-12.0
+2004,E8,4,Saint Joseph's,1.0,62.0,Oklahoma State,2.0,64.0,Oklahoma State,2.0,-2.0
+2004,R64,1,Stanford,1.0,71.0,UTSA,16.0,45.0,Stanford,1.0,26.0
+2004,R64,1,Alabama,8.0,65.0,Southern Illinois,9.0,64.0,Alabama,1.0,1.0
+2004,R64,1,Syracuse,5.0,80.0,BYU,12.0,75.0,Syracuse,1.0,5.0
+2004,R64,1,Maryland,4.0,86.0,UTEP,13.0,83.0,Maryland,1.0,3.0
+2004,R64,1,Vanderbilt,6.0,71.0,Western Michigan,11.0,58.0,Vanderbilt,1.0,13.0
+2004,R64,1,NC State,3.0,61.0,Louisiana,14.0,52.0,NC State,1.0,9.0
+2004,R64,1,DePaul,7.0,76.0,Dayton,10.0,69.0,DePaul,1.0,7.0
+2004,R64,1,UConn,2.0,70.0,Vermont,15.0,53.0,UConn,1.0,17.0
+2004,R32,2,Stanford,1.0,67.0,Alabama,8.0,70.0,Alabama,2.0,-3.0
+2004,R32,2,Syracuse,5.0,72.0,Maryland,4.0,70.0,Syracuse,1.0,2.0
+2004,R32,2,Vanderbilt,6.0,75.0,NC State,3.0,73.0,Vanderbilt,1.0,2.0
+2004,R32,2,DePaul,7.0,55.0,UConn,2.0,72.0,UConn,2.0,-17.0
+2004,S16,3,Alabama,8.0,80.0,Syracuse,5.0,71.0,Alabama,1.0,9.0
+2004,S16,3,Vanderbilt,6.0,53.0,UConn,2.0,73.0,UConn,2.0,-20.0
+2004,E8,4,Alabama,8.0,71.0,UConn,2.0,87.0,UConn,2.0,-16.0
+2004,R64,1,Kentucky,1.0,96.0,Florida A&M,16.0,76.0,Kentucky,1.0,20.0
+2004,R64,1,Washington,8.0,100.0,UAB,9.0,102.0,UAB,2.0,-2.0
+2004,R64,1,Providence,5.0,58.0,Pacific,12.0,66.0,Pacific,2.0,-8.0
+2004,R64,1,Kansas,4.0,78.0,UIC,13.0,53.0,Kansas,1.0,25.0
+2004,R64,1,Boston College,6.0,58.0,Utah,11.0,51.0,Boston College,1.0,7.0
+2004,R64,1,Georgia Tech,3.0,65.0,Northern Iowa,14.0,60.0,Georgia Tech,1.0,5.0
+2004,R64,1,Michigan State,7.0,66.0,Nevada,10.0,72.0,Nevada,2.0,-6.0
+2004,R64,1,Gonzaga,2.0,76.0,Valparaiso,15.0,49.0,Gonzaga,1.0,27.0
+2004,R32,2,Kentucky,1.0,75.0,UAB,9.0,76.0,UAB,2.0,-1.0
+2004,R32,2,Pacific,12.0,63.0,Kansas,4.0,78.0,Kansas,2.0,-15.0
+2004,R32,2,Boston College,6.0,54.0,Georgia Tech,3.0,57.0,Georgia Tech,2.0,-3.0
+2004,R32,2,Nevada,10.0,91.0,Gonzaga,2.0,72.0,Nevada,1.0,19.0
+2004,S16,3,UAB,9.0,74.0,Kansas,4.0,100.0,Kansas,2.0,-26.0
+2004,S16,3,Georgia Tech,3.0,72.0,Nevada,10.0,67.0,Georgia Tech,1.0,5.0
+2004,E8,4,Kansas,4.0,71.0,Georgia Tech,3.0,79.0,Georgia Tech,2.0,-8.0
+2004,F4,5,Duke,1.0,78.0,UConn,2.0,79.0,UConn,2.0,-1.0
+2004,F4,5,Oklahoma State,2.0,65.0,Georgia Tech,3.0,67.0,Georgia Tech,2.0,-2.0
+2004,Championship,6,UConn,2.0,82.0,Georgia Tech,3.0,73.0,UConn,1.0,9.0
+2005,R64,1,Washington,1.0,88.0,Montana,16.0,77.0,Washington,1.0,11.0
+2005,R64,1,Pacific,8.0,79.0,Pitt,9.0,71.0,Pacific,1.0,8.0
+2005,R64,1,Georgia Tech,5.0,80.0,George Washington,12.0,68.0,Georgia Tech,1.0,12.0
+2005,R64,1,Louisville,4.0,68.0,Louisiana,13.0,62.0,Louisville,1.0,6.0
+2005,R64,1,Texas Tech,6.0,78.0,UCLA,11.0,66.0,Texas Tech,1.0,12.0
+2005,R64,1,Gonzaga,3.0,74.0,Winthrop,14.0,64.0,Gonzaga,1.0,10.0
+2005,R64,1,West Virginia,7.0,63.0,Creighton,10.0,61.0,West Virginia,1.0,2.0
+2005,R64,1,Wake Forest,2.0,70.0,Chattanooga,15.0,54.0,Wake Forest,1.0,16.0
+2005,R32,2,Washington,1.0,97.0,Pacific,8.0,79.0,Washington,1.0,18.0
+2005,R32,2,Georgia Tech,5.0,54.0,Louisville,4.0,76.0,Louisville,2.0,-22.0
+2005,R32,2,Texas Tech,6.0,71.0,Gonzaga,3.0,69.0,Texas Tech,1.0,2.0
+2005,R32,2,West Virginia,7.0,111.0,Wake Forest,2.0,105.0,West Virginia,1.0,6.0
+2005,S16,3,Washington,1.0,79.0,Louisville,4.0,93.0,Louisville,2.0,-14.0
+2005,S16,3,Texas Tech,6.0,60.0,West Virginia,7.0,65.0,West Virginia,2.0,-5.0
+2005,E8,4,Louisville,4.0,93.0,West Virginia,7.0,85.0,Louisville,1.0,8.0
+2005,R64,1,Duke,1.0,57.0,Delaware State,16.0,46.0,Duke,1.0,11.0
+2005,R64,1,Stanford,8.0,70.0,Mississippi State,9.0,93.0,Mississippi State,2.0,-23.0
+2005,R64,1,Michigan State,5.0,89.0,Old Dominion,12.0,81.0,Michigan State,1.0,8.0
+2005,R64,1,Syracuse,4.0,57.0,Vermont,13.0,60.0,Vermont,2.0,-3.0
+2005,R64,1,Utah,6.0,60.0,UTEP,11.0,54.0,Utah,1.0,6.0
+2005,R64,1,Oklahoma,3.0,84.0,Niagara,14.0,67.0,Oklahoma,1.0,17.0
+2005,R64,1,Cincinnati,7.0,76.0,Iowa,10.0,64.0,Cincinnati,1.0,12.0
+2005,R64,1,Kentucky,2.0,72.0,Eastern Kentucky,15.0,64.0,Kentucky,1.0,8.0
+2005,R32,2,Duke,1.0,63.0,Mississippi State,9.0,55.0,Duke,1.0,8.0
+2005,R32,2,Michigan State,5.0,72.0,Vermont,13.0,61.0,Michigan State,1.0,11.0
+2005,R32,2,Utah,6.0,67.0,Oklahoma,3.0,58.0,Utah,1.0,9.0
+2005,R32,2,Cincinnati,7.0,60.0,Kentucky,2.0,69.0,Kentucky,2.0,-9.0
+2005,S16,3,Duke,1.0,68.0,Michigan State,5.0,78.0,Michigan State,2.0,-10.0
+2005,S16,3,Utah,6.0,52.0,Kentucky,2.0,62.0,Kentucky,2.0,-10.0
+2005,E8,4,Michigan State,5.0,94.0,Kentucky,2.0,88.0,Michigan State,1.0,6.0
+2005,R64,1,Illinois,1.0,67.0,FDU,16.0,55.0,Illinois,1.0,12.0
+2005,R64,1,Texas,8.0,57.0,Nevada,9.0,61.0,Nevada,2.0,-4.0
+2005,R64,1,Alabama,5.0,73.0,Milwaukee,12.0,83.0,Milwaukee,2.0,-10.0
+2005,R64,1,Boston College,4.0,85.0,Penn,13.0,65.0,Boston College,1.0,20.0
+2005,R64,1,LSU,6.0,68.0,UAB,11.0,82.0,UAB,2.0,-14.0
+2005,R64,1,Arizona,3.0,66.0,Utah State,14.0,53.0,Arizona,1.0,13.0
+2005,R64,1,Southern Illinois,7.0,65.0,Saint Mary's,10.0,56.0,Southern Illinois,1.0,9.0
+2005,R64,1,Oklahoma State,2.0,63.0,Southeastern Louisiana,15.0,50.0,Oklahoma State,1.0,13.0
+2005,R32,2,Illinois,1.0,71.0,Nevada,9.0,59.0,Illinois,1.0,12.0
+2005,R32,2,Milwaukee,12.0,83.0,Boston College,4.0,75.0,Milwaukee,1.0,8.0
+2005,R32,2,UAB,11.0,63.0,Arizona,3.0,85.0,Arizona,2.0,-22.0
+2005,R32,2,Southern Illinois,7.0,77.0,Oklahoma State,2.0,85.0,Oklahoma State,2.0,-8.0
+2005,S16,3,Illinois,1.0,77.0,Milwaukee,12.0,63.0,Illinois,1.0,14.0
+2005,S16,3,Arizona,3.0,79.0,Oklahoma State,2.0,78.0,Arizona,1.0,1.0
+2005,E8,4,Illinois,1.0,90.0,Arizona,3.0,89.0,Illinois,1.0,1.0
+2005,R64,1,UNC,1.0,96.0,Oakland,16.0,68.0,UNC,1.0,28.0
+2005,R64,1,Minnesota,8.0,53.0,Iowa State,9.0,64.0,Iowa State,2.0,-11.0
+2005,R64,1,Villanova,5.0,55.0,New Mexico,12.0,47.0,Villanova,1.0,8.0
+2005,R64,1,Florida,4.0,67.0,Ohio,13.0,62.0,Florida,1.0,5.0
+2005,R64,1,Wisconsin,6.0,57.0,Northern Iowa,11.0,52.0,Wisconsin,1.0,5.0
+2005,R64,1,Kansas,3.0,63.0,Bucknell,14.0,64.0,Bucknell,2.0,-1.0
+2005,R64,1,Charlotte,7.0,63.0,NC State,10.0,75.0,NC State,2.0,-12.0
+2005,R64,1,UConn,2.0,77.0,UCF,15.0,71.0,UConn,1.0,6.0
+2005,R32,2,UNC,1.0,92.0,Iowa State,9.0,65.0,UNC,1.0,27.0
+2005,R32,2,Villanova,5.0,76.0,Florida,4.0,65.0,Villanova,1.0,11.0
+2005,R32,2,Wisconsin,6.0,71.0,Bucknell,14.0,62.0,Wisconsin,1.0,9.0
+2005,R32,2,NC State,10.0,65.0,UConn,2.0,62.0,NC State,1.0,3.0
+2005,S16,3,UNC,1.0,67.0,Villanova,5.0,66.0,UNC,1.0,1.0
+2005,S16,3,Wisconsin,6.0,65.0,NC State,10.0,56.0,Wisconsin,1.0,9.0
+2005,E8,4,UNC,1.0,88.0,Wisconsin,6.0,82.0,UNC,1.0,6.0
+2005,F4,5,Louisville,4.0,57.0,Illinois,1.0,72.0,Illinois,2.0,-15.0
+2005,F4,5,Michigan State,5.0,71.0,UNC,1.0,87.0,UNC,2.0,-16.0
+2005,Championship,6,Illinois,1.0,70.0,UNC,1.0,75.0,UNC,2.0,-5.0
+2006,R64,1,Duke,1.0,70.0,Southern,16.0,54.0,Duke,1.0,16.0
+2006,R64,1,George Washington,8.0,88.0,UNC Wilmington,9.0,85.0,George Washington,1.0,3.0
+2006,R64,1,Syracuse,5.0,58.0,Texas A&M,12.0,66.0,Texas A&M,2.0,-8.0
+2006,R64,1,LSU,4.0,80.0,Iona,13.0,64.0,LSU,1.0,16.0
+2006,R64,1,West Virginia,6.0,64.0,Southern Illinois,11.0,46.0,West Virginia,1.0,18.0
+2006,R64,1,Iowa,3.0,63.0,Northwestern State,14.0,64.0,Northwestern State,2.0,-1.0
+2006,R64,1,California,7.0,52.0,NC State,10.0,58.0,NC State,2.0,-6.0
+2006,R64,1,Texas,2.0,60.0,Penn,15.0,52.0,Texas,1.0,8.0
+2006,R32,2,Duke,1.0,74.0,George Washington,8.0,61.0,Duke,1.0,13.0
+2006,R32,2,Texas A&M,12.0,57.0,LSU,4.0,58.0,LSU,2.0,-1.0
+2006,R32,2,West Virginia,6.0,67.0,Northwestern State,14.0,54.0,West Virginia,1.0,13.0
+2006,R32,2,NC State,10.0,54.0,Texas,2.0,75.0,Texas,2.0,-21.0
+2006,S16,3,Duke,1.0,54.0,LSU,4.0,62.0,LSU,2.0,-8.0
+2006,S16,3,West Virginia,6.0,71.0,Texas,2.0,74.0,Texas,2.0,-3.0
+2006,E8,4,LSU,4.0,70.0,Texas,2.0,60.0,LSU,1.0,10.0
+2006,R64,1,Villanova,1.0,58.0,Monmouth,16.0,45.0,Villanova,1.0,13.0
+2006,R64,1,Arizona,8.0,94.0,Wisconsin,9.0,75.0,Arizona,1.0,19.0
+2006,R64,1,Nevada,5.0,79.0,Montana,12.0,87.0,Montana,2.0,-8.0
+2006,R64,1,Boston College,4.0,88.0,Pacific,13.0,76.0,Boston College,1.0,12.0
+2006,R64,1,Oklahoma,6.0,74.0,Milwaukee,11.0,82.0,Milwaukee,2.0,-8.0
+2006,R64,1,Florida,3.0,76.0,South Alabama,14.0,50.0,Florida,1.0,26.0
+2006,R64,1,Georgetown,7.0,54.0,Northern Iowa,10.0,49.0,Georgetown,1.0,5.0
+2006,R64,1,Ohio State,2.0,70.0,Davidson,15.0,62.0,Ohio State,1.0,8.0
+2006,R32,2,Villanova,1.0,82.0,Arizona,8.0,78.0,Villanova,1.0,4.0
+2006,R32,2,Montana,12.0,56.0,Boston College,4.0,69.0,Boston College,2.0,-13.0
+2006,R32,2,Milwaukee,11.0,60.0,Florida,3.0,82.0,Florida,2.0,-22.0
+2006,R32,2,Georgetown,7.0,70.0,Ohio State,2.0,52.0,Georgetown,1.0,18.0
+2006,S16,3,Villanova,1.0,60.0,Boston College,4.0,59.0,Villanova,1.0,1.0
+2006,S16,3,Florida,3.0,57.0,Georgetown,7.0,53.0,Florida,1.0,4.0
+2006,E8,4,Villanova,1.0,62.0,Florida,3.0,75.0,Florida,2.0,-13.0
+2006,R64,1,Memphis,1.0,94.0,Oral Roberts,16.0,78.0,Memphis,1.0,16.0
+2006,R64,1,Arkansas,8.0,55.0,Bucknell,9.0,59.0,Bucknell,2.0,-4.0
+2006,R64,1,Pitt,5.0,79.0,Kent State,12.0,64.0,Pitt,1.0,15.0
+2006,R64,1,Kansas,4.0,73.0,Bradley,13.0,77.0,Bradley,2.0,-4.0
+2006,R64,1,Indiana,6.0,87.0,San Diego State,11.0,83.0,Indiana,1.0,4.0
+2006,R64,1,Gonzaga,3.0,79.0,Xavier,14.0,75.0,Gonzaga,1.0,4.0
+2006,R64,1,Marquette,7.0,85.0,Alabama,10.0,90.0,Alabama,2.0,-5.0
+2006,R64,1,UCLA,2.0,78.0,Belmont,15.0,44.0,UCLA,1.0,34.0
+2006,R32,2,Memphis,1.0,72.0,Bucknell,9.0,56.0,Memphis,1.0,16.0
+2006,R32,2,Pitt,5.0,66.0,Bradley,13.0,72.0,Bradley,2.0,-6.0
+2006,R32,2,Indiana,6.0,80.0,Gonzaga,3.0,90.0,Gonzaga,2.0,-10.0
+2006,R32,2,Alabama,10.0,59.0,UCLA,2.0,62.0,UCLA,2.0,-3.0
+2006,S16,3,Memphis,1.0,80.0,Bradley,13.0,64.0,Memphis,1.0,16.0
+2006,S16,3,Gonzaga,3.0,71.0,UCLA,2.0,73.0,UCLA,2.0,-2.0
+2006,E8,4,Memphis,1.0,45.0,UCLA,2.0,50.0,UCLA,2.0,-5.0
+2006,R64,1,UConn,1.0,72.0,Albany (NY),16.0,59.0,UConn,1.0,13.0
+2006,R64,1,Kentucky,8.0,69.0,UAB,9.0,64.0,Kentucky,1.0,5.0
+2006,R64,1,Washington,5.0,75.0,Utah State,12.0,61.0,Washington,1.0,14.0
+2006,R64,1,Illinois,4.0,78.0,Air Force,13.0,69.0,Illinois,1.0,9.0
+2006,R64,1,Michigan State,6.0,65.0,George Mason,11.0,75.0,George Mason,2.0,-10.0
+2006,R64,1,UNC,3.0,69.0,Murray State,14.0,65.0,UNC,1.0,4.0
+2006,R64,1,Wichita State,7.0,86.0,Seton Hall,10.0,66.0,Wichita State,1.0,20.0
+2006,R64,1,Tennessee,2.0,63.0,Winthrop,15.0,61.0,Tennessee,1.0,2.0
+2006,R32,2,UConn,1.0,87.0,Kentucky,8.0,83.0,UConn,1.0,4.0
+2006,R32,2,Washington,5.0,67.0,Illinois,4.0,64.0,Washington,1.0,3.0
+2006,R32,2,George Mason,11.0,65.0,UNC,3.0,60.0,George Mason,1.0,5.0
+2006,R32,2,Wichita State,7.0,80.0,Tennessee,2.0,73.0,Wichita State,1.0,7.0
+2006,S16,3,UConn,1.0,98.0,Washington,5.0,92.0,UConn,1.0,6.0
+2006,S16,3,George Mason,11.0,63.0,Wichita State,7.0,55.0,George Mason,1.0,8.0
+2006,E8,4,UConn,1.0,84.0,George Mason,11.0,86.0,George Mason,2.0,-2.0
+2006,F4,5,LSU,4.0,45.0,UCLA,2.0,59.0,UCLA,2.0,-14.0
+2006,F4,5,Florida,3.0,73.0,George Mason,11.0,58.0,Florida,1.0,15.0
+2006,Championship,6,UCLA,2.0,57.0,Florida,3.0,73.0,Florida,2.0,-16.0
+2007,R64,1,UNC,1.0,86.0,Eastern Kentucky,16.0,65.0,UNC,1.0,21.0
+2007,R64,1,Marquette,8.0,49.0,Michigan State,9.0,61.0,Michigan State,2.0,-12.0
+2007,R64,1,USC,5.0,77.0,Arkansas,12.0,60.0,USC,1.0,17.0
+2007,R64,1,Texas,4.0,79.0,New Mexico State,13.0,67.0,Texas,1.0,12.0
+2007,R64,1,Vanderbilt,6.0,77.0,George Washington,11.0,44.0,Vanderbilt,1.0,33.0
+2007,R64,1,Washington State,3.0,70.0,Oral Roberts,14.0,54.0,Washington State,1.0,16.0
+2007,R64,1,Boston College,7.0,84.0,Texas Tech,10.0,75.0,Boston College,1.0,9.0
+2007,R64,1,Georgetown,2.0,80.0,Belmont,15.0,55.0,Georgetown,1.0,25.0
+2007,R32,2,UNC,1.0,81.0,Michigan State,9.0,67.0,UNC,1.0,14.0
+2007,R32,2,USC,5.0,87.0,Texas,4.0,68.0,USC,1.0,19.0
+2007,R32,2,Vanderbilt,6.0,78.0,Washington State,3.0,74.0,Vanderbilt,1.0,4.0
+2007,R32,2,Boston College,7.0,55.0,Georgetown,2.0,62.0,Georgetown,2.0,-7.0
+2007,S16,3,UNC,1.0,74.0,USC,5.0,64.0,UNC,1.0,10.0
+2007,S16,3,Vanderbilt,6.0,65.0,Georgetown,2.0,66.0,Georgetown,2.0,-1.0
+2007,E8,4,UNC,1.0,84.0,Georgetown,2.0,96.0,Georgetown,2.0,-12.0
+2007,R64,1,Florida,1.0,112.0,Jackson State,16.0,69.0,Florida,1.0,43.0
+2007,R64,1,Arizona,8.0,63.0,Purdue,9.0,72.0,Purdue,2.0,-9.0
+2007,R64,1,Butler,5.0,57.0,Old Dominion,12.0,46.0,Butler,1.0,11.0
+2007,R64,1,Maryland,4.0,82.0,Davidson,13.0,70.0,Maryland,1.0,12.0
+2007,R64,1,Notre Dame,6.0,64.0,Winthrop,11.0,74.0,Winthrop,2.0,-10.0
+2007,R64,1,Oregon,3.0,58.0,Miami (OH),14.0,56.0,Oregon,1.0,2.0
+2007,R64,1,UNLV,7.0,67.0,Georgia Tech,10.0,63.0,UNLV,1.0,4.0
+2007,R64,1,Wisconsin,2.0,76.0,Texas A&M-Corpus Christi,15.0,63.0,Wisconsin,1.0,13.0
+2007,R32,2,Florida,1.0,74.0,Purdue,9.0,67.0,Florida,1.0,7.0
+2007,R32,2,Butler,5.0,62.0,Maryland,4.0,59.0,Butler,1.0,3.0
+2007,R32,2,Winthrop,11.0,61.0,Oregon,3.0,75.0,Oregon,2.0,-14.0
+2007,R32,2,UNLV,7.0,74.0,Wisconsin,2.0,68.0,UNLV,1.0,6.0
+2007,S16,3,Florida,1.0,65.0,Butler,5.0,57.0,Florida,1.0,8.0
+2007,S16,3,Oregon,3.0,76.0,UNLV,7.0,72.0,Oregon,1.0,4.0
+2007,E8,4,Florida,1.0,85.0,Oregon,3.0,77.0,Florida,1.0,8.0
+2007,R64,1,Ohio State,1.0,78.0,Central Connecticut,16.0,57.0,Ohio State,1.0,21.0
+2007,R64,1,BYU,8.0,77.0,Xavier,9.0,79.0,Xavier,2.0,-2.0
+2007,R64,1,Tennessee,5.0,121.0,Long Beach State,12.0,86.0,Tennessee,1.0,35.0
+2007,R64,1,Virginia,4.0,84.0,Albany (NY),13.0,57.0,Virginia,1.0,27.0
+2007,R64,1,Louisville,6.0,78.0,Stanford,11.0,58.0,Louisville,1.0,20.0
+2007,R64,1,Texas A&M,3.0,68.0,Penn,14.0,52.0,Texas A&M,1.0,16.0
+2007,R64,1,Nevada,7.0,77.0,Creighton,10.0,71.0,Nevada,1.0,6.0
+2007,R64,1,Memphis,2.0,73.0,North Texas,15.0,58.0,Memphis,1.0,15.0
+2007,R32,2,Ohio State,1.0,78.0,Xavier,9.0,71.0,Ohio State,1.0,7.0
+2007,R32,2,Tennessee,5.0,77.0,Virginia,4.0,74.0,Tennessee,1.0,3.0
+2007,R32,2,Louisville,6.0,69.0,Texas A&M,3.0,72.0,Texas A&M,2.0,-3.0
+2007,R32,2,Nevada,7.0,62.0,Memphis,2.0,78.0,Memphis,2.0,-16.0
+2007,S16,3,Ohio State,1.0,85.0,Tennessee,5.0,84.0,Ohio State,1.0,1.0
+2007,S16,3,Texas A&M,3.0,64.0,Memphis,2.0,65.0,Memphis,2.0,-1.0
+2007,E8,4,Ohio State,1.0,92.0,Memphis,2.0,76.0,Ohio State,1.0,16.0
+2007,R64,1,Kansas,1.0,107.0,Niagara,16.0,67.0,Kansas,1.0,40.0
+2007,R64,1,Kentucky,8.0,67.0,Villanova,9.0,58.0,Kentucky,1.0,9.0
+2007,R64,1,Virginia Tech,5.0,54.0,Illinois,12.0,52.0,Virginia Tech,1.0,2.0
+2007,R64,1,Southern Illinois,4.0,61.0,Holy Cross,13.0,51.0,Southern Illinois,1.0,10.0
+2007,R64,1,Duke,6.0,77.0,VCU,11.0,79.0,VCU,2.0,-2.0
+2007,R64,1,Pitt,3.0,79.0,Wright State,14.0,58.0,Pitt,1.0,21.0
+2007,R64,1,Indiana,7.0,70.0,Gonzaga,10.0,57.0,Indiana,1.0,13.0
+2007,R64,1,UCLA,2.0,70.0,Weber State,15.0,42.0,UCLA,1.0,28.0
+2007,R32,2,Kansas,1.0,88.0,Kentucky,8.0,76.0,Kansas,1.0,12.0
+2007,R32,2,Virginia Tech,5.0,48.0,Southern Illinois,4.0,63.0,Southern Illinois,2.0,-15.0
+2007,R32,2,VCU,11.0,79.0,Pitt,3.0,84.0,Pitt,2.0,-5.0
+2007,R32,2,Indiana,7.0,49.0,UCLA,2.0,54.0,UCLA,2.0,-5.0
+2007,S16,3,Kansas,1.0,61.0,Southern Illinois,4.0,58.0,Kansas,1.0,3.0
+2007,S16,3,Pitt,3.0,55.0,UCLA,2.0,64.0,UCLA,2.0,-9.0
+2007,E8,4,Kansas,1.0,55.0,UCLA,2.0,68.0,UCLA,2.0,-13.0
+2007,F4,5,Georgetown,2.0,60.0,Ohio State,1.0,67.0,Ohio State,2.0,-7.0
+2007,F4,5,Florida,1.0,76.0,UCLA,2.0,66.0,Florida,1.0,10.0
+2007,Championship,6,Ohio State,1.0,75.0,Florida,1.0,84.0,Florida,2.0,-9.0
+2008,R64,1,UNC,1.0,113.0,Mount St. Mary's,16.0,74.0,UNC,1.0,39.0
+2008,R64,1,Indiana,8.0,72.0,Arkansas,9.0,86.0,Arkansas,2.0,-14.0
+2008,R64,1,Notre Dame,5.0,68.0,George Mason,12.0,50.0,Notre Dame,1.0,18.0
+2008,R64,1,Washington State,4.0,71.0,Winthrop,13.0,40.0,Washington State,1.0,31.0
+2008,R64,1,Oklahoma,6.0,72.0,Saint Joseph's,11.0,64.0,Oklahoma,1.0,8.0
+2008,R64,1,Louisville,3.0,79.0,Boise State,14.0,61.0,Louisville,1.0,18.0
+2008,R64,1,Butler,7.0,81.0,South Alabama,10.0,61.0,Butler,1.0,20.0
+2008,R64,1,Tennessee,2.0,72.0,American,15.0,57.0,Tennessee,1.0,15.0
+2008,R32,2,UNC,1.0,108.0,Arkansas,9.0,77.0,UNC,1.0,31.0
+2008,R32,2,Notre Dame,5.0,41.0,Washington State,4.0,61.0,Washington State,2.0,-20.0
+2008,R32,2,Oklahoma,6.0,48.0,Louisville,3.0,78.0,Louisville,2.0,-30.0
+2008,R32,2,Butler,7.0,71.0,Tennessee,2.0,76.0,Tennessee,2.0,-5.0
+2008,S16,3,UNC,1.0,68.0,Washington State,4.0,47.0,UNC,1.0,21.0
+2008,S16,3,Louisville,3.0,79.0,Tennessee,2.0,60.0,Louisville,1.0,19.0
+2008,E8,4,UNC,1.0,83.0,Louisville,3.0,73.0,UNC,1.0,10.0
+2008,R64,1,Kansas,1.0,85.0,Portland State,16.0,61.0,Kansas,1.0,24.0
+2008,R64,1,UNLV,8.0,71.0,Kent State,9.0,58.0,UNLV,1.0,13.0
+2008,R64,1,Clemson,5.0,69.0,Villanova,12.0,75.0,Villanova,2.0,-6.0
+2008,R64,1,Vanderbilt,4.0,62.0,Siena,13.0,83.0,Siena,2.0,-21.0
+2008,R64,1,USC,6.0,67.0,Kansas State,11.0,80.0,Kansas State,2.0,-13.0
+2008,R64,1,Wisconsin,3.0,71.0,Cal State Fullerton,14.0,56.0,Wisconsin,1.0,15.0
+2008,R64,1,Gonzaga,7.0,76.0,Davidson,10.0,82.0,Davidson,2.0,-6.0
+2008,R64,1,Georgetown,2.0,66.0,UMBC,15.0,47.0,Georgetown,1.0,19.0
+2008,R32,2,Kansas,1.0,75.0,UNLV,8.0,56.0,Kansas,1.0,19.0
+2008,R32,2,Villanova,12.0,84.0,Siena,13.0,72.0,Villanova,1.0,12.0
+2008,R32,2,Kansas State,11.0,55.0,Wisconsin,3.0,72.0,Wisconsin,2.0,-17.0
+2008,R32,2,Davidson,10.0,74.0,Georgetown,2.0,70.0,Davidson,1.0,4.0
+2008,S16,3,Kansas,1.0,72.0,Villanova,12.0,57.0,Kansas,1.0,15.0
+2008,S16,3,Wisconsin,3.0,56.0,Davidson,10.0,73.0,Davidson,2.0,-17.0
+2008,E8,4,Kansas,1.0,59.0,Davidson,10.0,57.0,Kansas,1.0,2.0
+2008,R64,1,Memphis,1.0,87.0,UT Arlington,16.0,63.0,Memphis,1.0,24.0
+2008,R64,1,Mississippi State,8.0,76.0,Oregon,9.0,69.0,Mississippi State,1.0,7.0
+2008,R64,1,Michigan State,5.0,72.0,Temple,12.0,61.0,Michigan State,1.0,11.0
+2008,R64,1,Pitt,4.0,82.0,Oral Roberts,13.0,63.0,Pitt,1.0,19.0
+2008,R64,1,Marquette,6.0,74.0,Kentucky,11.0,66.0,Marquette,1.0,8.0
+2008,R64,1,Stanford,3.0,77.0,Cornell,14.0,53.0,Stanford,1.0,24.0
+2008,R64,1,Miami (FL),7.0,78.0,Saint Mary's,10.0,64.0,Miami (FL),1.0,14.0
+2008,R64,1,Texas,2.0,74.0,Austin Peay,15.0,54.0,Texas,1.0,20.0
+2008,R32,2,Memphis,1.0,77.0,Mississippi State,8.0,74.0,Memphis,1.0,3.0
+2008,R32,2,Michigan State,5.0,65.0,Pitt,4.0,54.0,Michigan State,1.0,11.0
+2008,R32,2,Marquette,6.0,81.0,Stanford,3.0,82.0,Stanford,2.0,-1.0
+2008,R32,2,Miami (FL),7.0,72.0,Texas,2.0,75.0,Texas,2.0,-3.0
+2008,S16,3,Memphis,1.0,92.0,Michigan State,5.0,74.0,Memphis,1.0,18.0
+2008,S16,3,Stanford,3.0,62.0,Texas,2.0,82.0,Texas,2.0,-20.0
+2008,E8,4,Memphis,1.0,85.0,Texas,2.0,67.0,Memphis,1.0,18.0
+2008,R64,1,UCLA,1.0,70.0,Mississippi Valley State,16.0,29.0,UCLA,1.0,41.0
+2008,R64,1,BYU,8.0,62.0,Texas A&M,9.0,67.0,Texas A&M,2.0,-5.0
+2008,R64,1,Drake,5.0,99.0,Western Kentucky,12.0,101.0,Western Kentucky,2.0,-2.0
+2008,R64,1,UConn,4.0,69.0,San Diego,13.0,70.0,San Diego,2.0,-1.0
+2008,R64,1,Purdue,6.0,90.0,Baylor,11.0,79.0,Purdue,1.0,11.0
+2008,R64,1,Xavier,3.0,73.0,Georgia,14.0,61.0,Xavier,1.0,12.0
+2008,R64,1,West Virginia,7.0,75.0,Arizona,10.0,65.0,West Virginia,1.0,10.0
+2008,R64,1,Duke,2.0,71.0,Belmont,15.0,70.0,Duke,1.0,1.0
+2008,R32,2,UCLA,1.0,51.0,Texas A&M,9.0,49.0,UCLA,1.0,2.0
+2008,R32,2,Western Kentucky,12.0,72.0,San Diego,13.0,63.0,Western Kentucky,1.0,9.0
+2008,R32,2,Purdue,6.0,78.0,Xavier,3.0,85.0,Xavier,2.0,-7.0
+2008,R32,2,West Virginia,7.0,73.0,Duke,2.0,67.0,West Virginia,1.0,6.0
+2008,S16,3,UCLA,1.0,88.0,Western Kentucky,12.0,78.0,UCLA,1.0,10.0
+2008,S16,3,Xavier,3.0,79.0,West Virginia,7.0,75.0,Xavier,1.0,4.0
+2008,E8,4,UCLA,1.0,76.0,Xavier,3.0,57.0,UCLA,1.0,19.0
+2008,F4,5,UNC,1.0,66.0,Kansas,1.0,84.0,Kansas,2.0,-18.0
+2008,F4,5,Memphis,1.0,78.0,UCLA,1.0,63.0,Memphis,1.0,15.0
+2008,Championship,6,Kansas,1.0,75.0,Memphis,1.0,68.0,Kansas,1.0,7.0
+2009,R64,1,Pitt,1.0,72.0,ETSU,16.0,62.0,Pitt,1.0,10.0
+2009,R64,1,Oklahoma State,8.0,77.0,Tennessee,9.0,75.0,Oklahoma State,1.0,2.0
+2009,R64,1,Florida State,5.0,59.0,Wisconsin,12.0,61.0,Wisconsin,2.0,-2.0
+2009,R64,1,Xavier,4.0,77.0,Portland State,13.0,59.0,Xavier,1.0,18.0
+2009,R64,1,UCLA,6.0,65.0,VCU,11.0,64.0,UCLA,1.0,1.0
+2009,R64,1,Villanova,3.0,80.0,American,14.0,67.0,Villanova,1.0,13.0
+2009,R64,1,Texas,7.0,76.0,Minnesota,10.0,62.0,Texas,1.0,14.0
+2009,R64,1,Duke,2.0,86.0,Binghamton,15.0,62.0,Duke,1.0,24.0
+2009,R32,2,Pitt,1.0,84.0,Oklahoma State,8.0,76.0,Pitt,1.0,8.0
+2009,R32,2,Wisconsin,12.0,49.0,Xavier,4.0,60.0,Xavier,2.0,-11.0
+2009,R32,2,UCLA,6.0,69.0,Villanova,3.0,89.0,Villanova,2.0,-20.0
+2009,R32,2,Texas,7.0,69.0,Duke,2.0,74.0,Duke,2.0,-5.0
+2009,S16,3,Pitt,1.0,60.0,Xavier,4.0,55.0,Pitt,1.0,5.0
+2009,S16,3,Villanova,3.0,77.0,Duke,2.0,54.0,Villanova,1.0,23.0
+2009,E8,4,Pitt,1.0,76.0,Villanova,3.0,78.0,Villanova,2.0,-2.0
+2009,R64,1,Louisville,1.0,74.0,Morehead State,16.0,54.0,Louisville,1.0,20.0
+2009,R64,1,Ohio State,8.0,72.0,Siena,9.0,74.0,Siena,2.0,-2.0
+2009,R64,1,Utah,5.0,71.0,Arizona,12.0,84.0,Arizona,2.0,-13.0
+2009,R64,1,Wake Forest,4.0,69.0,Cleveland State,13.0,84.0,Cleveland State,2.0,-15.0
+2009,R64,1,West Virginia,6.0,60.0,Dayton,11.0,68.0,Dayton,2.0,-8.0
+2009,R64,1,Kansas,3.0,84.0,North Dakota State,14.0,74.0,Kansas,1.0,10.0
+2009,R64,1,Boston College,7.0,55.0,USC,10.0,72.0,USC,2.0,-17.0
+2009,R64,1,Michigan State,2.0,77.0,Robert Morris,15.0,62.0,Michigan State,1.0,15.0
+2009,R32,2,Louisville,1.0,79.0,Siena,9.0,72.0,Louisville,1.0,7.0
+2009,R32,2,Arizona,12.0,71.0,Cleveland State,13.0,57.0,Arizona,1.0,14.0
+2009,R32,2,Dayton,11.0,43.0,Kansas,3.0,60.0,Kansas,2.0,-17.0
+2009,R32,2,USC,10.0,69.0,Michigan State,2.0,74.0,Michigan State,2.0,-5.0
+2009,S16,3,Louisville,1.0,103.0,Arizona,12.0,64.0,Louisville,1.0,39.0
+2009,S16,3,Kansas,3.0,62.0,Michigan State,2.0,67.0,Michigan State,2.0,-5.0
+2009,E8,4,Louisville,1.0,52.0,Michigan State,2.0,64.0,Michigan State,2.0,-12.0
+2009,R64,1,UNC,1.0,101.0,Radford,16.0,58.0,UNC,1.0,43.0
+2009,R64,1,LSU,8.0,75.0,Butler,9.0,71.0,LSU,1.0,4.0
+2009,R64,1,Illinois,5.0,72.0,Western Kentucky,12.0,76.0,Western Kentucky,2.0,-4.0
+2009,R64,1,Gonzaga,4.0,77.0,Akron,13.0,64.0,Gonzaga,1.0,13.0
+2009,R64,1,Arizona State,6.0,66.0,Temple,11.0,57.0,Arizona State,1.0,9.0
+2009,R64,1,Syracuse,3.0,59.0,Stephen F. Austin,14.0,44.0,Syracuse,1.0,15.0
+2009,R64,1,Clemson,7.0,59.0,Michigan,10.0,62.0,Michigan,2.0,-3.0
+2009,R64,1,Oklahoma,2.0,82.0,Morgan State,15.0,54.0,Oklahoma,1.0,28.0
+2009,R32,2,UNC,1.0,84.0,LSU,8.0,70.0,UNC,1.0,14.0
+2009,R32,2,Western Kentucky,12.0,81.0,Gonzaga,4.0,83.0,Gonzaga,2.0,-2.0
+2009,R32,2,Arizona State,6.0,67.0,Syracuse,3.0,78.0,Syracuse,2.0,-11.0
+2009,R32,2,Michigan,10.0,63.0,Oklahoma,2.0,73.0,Oklahoma,2.0,-10.0
+2009,S16,3,UNC,1.0,98.0,Gonzaga,4.0,77.0,UNC,1.0,21.0
+2009,S16,3,Syracuse,3.0,71.0,Oklahoma,2.0,84.0,Oklahoma,2.0,-13.0
+2009,E8,4,UNC,1.0,72.0,Oklahoma,2.0,60.0,UNC,1.0,12.0
+2009,R64,1,UConn,1.0,103.0,Chattanooga,16.0,47.0,UConn,1.0,56.0
+2009,R64,1,BYU,8.0,66.0,Texas A&M,9.0,79.0,Texas A&M,2.0,-13.0
+2009,R64,1,Purdue,5.0,61.0,Northern Iowa,12.0,56.0,Purdue,1.0,5.0
+2009,R64,1,Washington,4.0,71.0,Mississippi State,13.0,58.0,Washington,1.0,13.0
+2009,R64,1,Marquette,6.0,58.0,Utah State,11.0,57.0,Marquette,1.0,1.0
+2009,R64,1,Missouri,3.0,78.0,Cornell,14.0,59.0,Missouri,1.0,19.0
+2009,R64,1,California,7.0,71.0,Maryland,10.0,84.0,Maryland,2.0,-13.0
+2009,R64,1,Memphis,2.0,81.0,Cal State Northridge,15.0,70.0,Memphis,1.0,11.0
+2009,R32,2,UConn,1.0,92.0,Texas A&M,9.0,66.0,UConn,1.0,26.0
+2009,R32,2,Purdue,5.0,76.0,Washington,4.0,74.0,Purdue,1.0,2.0
+2009,R32,2,Marquette,6.0,79.0,Missouri,3.0,83.0,Missouri,2.0,-4.0
+2009,R32,2,Maryland,10.0,70.0,Memphis,2.0,89.0,Memphis,2.0,-19.0
+2009,S16,3,UConn,1.0,72.0,Purdue,5.0,60.0,UConn,1.0,12.0
+2009,S16,3,Missouri,3.0,102.0,Memphis,2.0,91.0,Missouri,1.0,11.0
+2009,E8,4,UConn,1.0,82.0,Missouri,3.0,75.0,UConn,1.0,7.0
+2009,F4,5,Villanova,3.0,69.0,UNC,1.0,83.0,UNC,2.0,-14.0
+2009,F4,5,Michigan State,2.0,82.0,UConn,1.0,73.0,Michigan State,1.0,9.0
+2009,Championship,6,UNC,1.0,89.0,Michigan State,2.0,72.0,UNC,1.0,17.0
+2010,R64,1,Kentucky,1.0,100.0,ETSU,16.0,71.0,Kentucky,1.0,29.0
+2010,R64,1,Texas,8.0,80.0,Wake Forest,9.0,81.0,Wake Forest,2.0,-1.0
+2010,R64,1,Temple,5.0,65.0,Cornell,12.0,78.0,Cornell,2.0,-13.0
+2010,R64,1,Wisconsin,4.0,53.0,Wofford,13.0,49.0,Wisconsin,1.0,4.0
+2010,R64,1,Marquette,6.0,78.0,Washington,11.0,80.0,Washington,2.0,-2.0
+2010,R64,1,New Mexico,3.0,62.0,Montana,14.0,57.0,New Mexico,1.0,5.0
+2010,R64,1,Clemson,7.0,78.0,Missouri,10.0,86.0,Missouri,2.0,-8.0
+2010,R64,1,West Virginia,2.0,77.0,Morgan State,15.0,50.0,West Virginia,1.0,27.0
+2010,R32,2,Kentucky,1.0,90.0,Wake Forest,9.0,60.0,Kentucky,1.0,30.0
+2010,R32,2,Cornell,12.0,87.0,Wisconsin,4.0,69.0,Cornell,1.0,18.0
+2010,R32,2,Washington,11.0,82.0,New Mexico,3.0,64.0,Washington,1.0,18.0
+2010,R32,2,Missouri,10.0,59.0,West Virginia,2.0,68.0,West Virginia,2.0,-9.0
+2010,S16,3,Kentucky,1.0,62.0,Cornell,12.0,45.0,Kentucky,1.0,17.0
+2010,S16,3,Washington,11.0,56.0,West Virginia,2.0,69.0,West Virginia,2.0,-13.0
+2010,E8,4,Kentucky,1.0,66.0,West Virginia,2.0,73.0,West Virginia,2.0,-7.0
+2010,R64,1,Kansas,1.0,90.0,Lehigh,16.0,74.0,Kansas,1.0,16.0
+2010,R64,1,UNLV,8.0,66.0,Northern Iowa,9.0,69.0,Northern Iowa,2.0,-3.0
+2010,R64,1,Michigan State,5.0,70.0,New Mexico State,12.0,67.0,Michigan State,1.0,3.0
+2010,R64,1,Maryland,4.0,89.0,Houston,13.0,77.0,Maryland,1.0,12.0
+2010,R64,1,Tennessee,6.0,62.0,San Diego State,11.0,59.0,Tennessee,1.0,3.0
+2010,R64,1,Georgetown,3.0,83.0,Ohio,14.0,97.0,Ohio,2.0,-14.0
+2010,R64,1,Oklahoma State,7.0,59.0,Georgia Tech,10.0,64.0,Georgia Tech,2.0,-5.0
+2010,R64,1,Ohio State,2.0,68.0,UC Santa Barbara,15.0,51.0,Ohio State,1.0,17.0
+2010,R32,2,Kansas,1.0,67.0,Northern Iowa,9.0,69.0,Northern Iowa,2.0,-2.0
+2010,R32,2,Michigan State,5.0,85.0,Maryland,4.0,83.0,Michigan State,1.0,2.0
+2010,R32,2,Tennessee,6.0,83.0,Ohio,14.0,68.0,Tennessee,1.0,15.0
+2010,R32,2,Georgia Tech,10.0,66.0,Ohio State,2.0,75.0,Ohio State,2.0,-9.0
+2010,S16,3,Northern Iowa,9.0,52.0,Michigan State,5.0,59.0,Michigan State,2.0,-7.0
+2010,S16,3,Tennessee,6.0,76.0,Ohio State,2.0,73.0,Tennessee,1.0,3.0
+2010,E8,4,Michigan State,5.0,70.0,Tennessee,6.0,69.0,Michigan State,1.0,1.0
+2010,R64,1,Duke,1.0,73.0,Arkansas-Pine Bluff,16.0,44.0,Duke,1.0,29.0
+2010,R64,1,California,8.0,77.0,Louisville,9.0,62.0,California,1.0,15.0
+2010,R64,1,Texas A&M,5.0,69.0,Utah State,12.0,53.0,Texas A&M,1.0,16.0
+2010,R64,1,Purdue,4.0,72.0,Siena,13.0,64.0,Purdue,1.0,8.0
+2010,R64,1,Notre Dame,6.0,50.0,Old Dominion,11.0,51.0,Old Dominion,2.0,-1.0
+2010,R64,1,Baylor,3.0,68.0,Sam Houston,14.0,59.0,Baylor,1.0,9.0
+2010,R64,1,Richmond,7.0,71.0,Saint Mary's,10.0,80.0,Saint Mary's,2.0,-9.0
+2010,R64,1,Villanova,2.0,73.0,Robert Morris,15.0,70.0,Villanova,1.0,3.0
+2010,R32,2,Duke,1.0,68.0,California,8.0,53.0,Duke,1.0,15.0
+2010,R32,2,Texas A&M,5.0,61.0,Purdue,4.0,63.0,Purdue,2.0,-2.0
+2010,R32,2,Old Dominion,11.0,68.0,Baylor,3.0,76.0,Baylor,2.0,-8.0
+2010,R32,2,Saint Mary's,10.0,75.0,Villanova,2.0,68.0,Saint Mary's,1.0,7.0
+2010,S16,3,Duke,1.0,70.0,Purdue,4.0,57.0,Duke,1.0,13.0
+2010,S16,3,Baylor,3.0,72.0,Saint Mary's,10.0,49.0,Baylor,1.0,23.0
+2010,E8,4,Duke,1.0,78.0,Baylor,3.0,71.0,Duke,1.0,7.0
+2010,R64,1,Syracuse,1.0,79.0,Vermont,16.0,56.0,Syracuse,1.0,23.0
+2010,R64,1,Gonzaga,8.0,67.0,Florida State,9.0,60.0,Gonzaga,1.0,7.0
+2010,R64,1,Butler,5.0,77.0,UTEP,12.0,59.0,Butler,1.0,18.0
+2010,R64,1,Vanderbilt,4.0,65.0,Murray State,13.0,66.0,Murray State,2.0,-1.0
+2010,R64,1,Xavier,6.0,65.0,Minnesota,11.0,54.0,Xavier,1.0,11.0
+2010,R64,1,Pitt,3.0,89.0,Oakland,14.0,66.0,Pitt,1.0,23.0
+2010,R64,1,BYU,7.0,99.0,Florida,10.0,92.0,BYU,1.0,7.0
+2010,R64,1,Kansas State,2.0,82.0,North Texas,15.0,62.0,Kansas State,1.0,20.0
+2010,R32,2,Syracuse,1.0,87.0,Gonzaga,8.0,65.0,Syracuse,1.0,22.0
+2010,R32,2,Butler,5.0,54.0,Murray State,13.0,52.0,Butler,1.0,2.0
+2010,R32,2,Xavier,6.0,71.0,Pitt,3.0,68.0,Xavier,1.0,3.0
+2010,R32,2,BYU,7.0,72.0,Kansas State,2.0,84.0,Kansas State,2.0,-12.0
+2010,S16,3,Syracuse,1.0,59.0,Butler,5.0,63.0,Butler,2.0,-4.0
+2010,S16,3,Xavier,6.0,96.0,Kansas State,2.0,101.0,Kansas State,2.0,-5.0
+2010,E8,4,Butler,5.0,63.0,Kansas State,2.0,56.0,Butler,1.0,7.0
+2010,F4,5,West Virginia,2.0,57.0,Duke,1.0,78.0,Duke,2.0,-21.0
+2010,F4,5,Michigan State,5.0,50.0,Butler,5.0,52.0,Butler,2.0,-2.0
+2010,Championship,6,Duke,1.0,61.0,Butler,5.0,59.0,Duke,1.0,2.0
+2011,R64,1,Ohio State,1.0,75.0,UTSA,16.0,46.0,Ohio State,1.0,29.0
+2011,R64,1,George Mason,8.0,61.0,Villanova,9.0,57.0,George Mason,1.0,4.0
+2011,R64,1,West Virginia,5.0,84.0,Clemson,12.0,76.0,West Virginia,1.0,8.0
+2011,R64,1,Kentucky,4.0,59.0,Princeton,13.0,57.0,Kentucky,1.0,2.0
+2011,R64,1,Xavier,6.0,55.0,Marquette,11.0,66.0,Marquette,2.0,-11.0
+2011,R64,1,Syracuse,3.0,77.0,Indiana State,14.0,60.0,Syracuse,1.0,17.0
+2011,R64,1,Washington,7.0,68.0,Georgia,10.0,65.0,Washington,1.0,3.0
+2011,R64,1,UNC,2.0,102.0,LIU,15.0,87.0,UNC,1.0,15.0
+2011,R32,2,Ohio State,1.0,98.0,George Mason,8.0,66.0,Ohio State,1.0,32.0
+2011,R32,2,West Virginia,5.0,63.0,Kentucky,4.0,71.0,Kentucky,2.0,-8.0
+2011,R32,2,Marquette,11.0,66.0,Syracuse,3.0,62.0,Marquette,1.0,4.0
+2011,R32,2,Washington,7.0,83.0,UNC,2.0,86.0,UNC,2.0,-3.0
+2011,S16,3,Ohio State,1.0,60.0,Kentucky,4.0,62.0,Kentucky,2.0,-2.0
+2011,S16,3,Marquette,11.0,63.0,UNC,2.0,81.0,UNC,2.0,-18.0
+2011,E8,4,Kentucky,4.0,76.0,UNC,2.0,69.0,Kentucky,1.0,7.0
+2011,R64,1,Pitt,1.0,74.0,UNC Asheville,16.0,51.0,Pitt,1.0,23.0
+2011,R64,1,Butler,8.0,60.0,Old Dominion,9.0,58.0,Butler,1.0,2.0
+2011,R64,1,Kansas State,5.0,73.0,Utah State,12.0,68.0,Kansas State,1.0,5.0
+2011,R64,1,Wisconsin,4.0,72.0,Belmont,13.0,58.0,Wisconsin,1.0,14.0
+2011,R64,1,St. John's (NY),6.0,71.0,Gonzaga,11.0,86.0,Gonzaga,2.0,-15.0
+2011,R64,1,BYU,3.0,74.0,Wofford,14.0,66.0,BYU,1.0,8.0
+2011,R64,1,UCLA,7.0,78.0,Michigan State,10.0,76.0,UCLA,1.0,2.0
+2011,R64,1,Florida,2.0,79.0,UC Santa Barbara,15.0,51.0,Florida,1.0,28.0
+2011,R32,2,Pitt,1.0,70.0,Butler,8.0,71.0,Butler,2.0,-1.0
+2011,R32,2,Kansas State,5.0,65.0,Wisconsin,4.0,70.0,Wisconsin,2.0,-5.0
+2011,R32,2,Gonzaga,11.0,67.0,BYU,3.0,89.0,BYU,2.0,-22.0
+2011,R32,2,UCLA,7.0,65.0,Florida,2.0,73.0,Florida,2.0,-8.0
+2011,S16,3,Butler,8.0,61.0,Wisconsin,4.0,54.0,Butler,1.0,7.0
+2011,S16,3,BYU,3.0,74.0,Florida,2.0,83.0,Florida,2.0,-9.0
+2011,E8,4,Butler,8.0,74.0,Florida,2.0,71.0,Butler,1.0,3.0
+2011,R64,1,Kansas,1.0,72.0,Boston University,16.0,53.0,Kansas,1.0,19.0
+2011,R64,1,UNLV,8.0,62.0,Illinois,9.0,73.0,Illinois,2.0,-11.0
+2011,R64,1,Vanderbilt,5.0,66.0,Richmond,12.0,69.0,Richmond,2.0,-3.0
+2011,R64,1,Louisville,4.0,61.0,Morehead State,13.0,62.0,Morehead State,2.0,-1.0
+2011,R64,1,Georgetown,6.0,56.0,VCU,11.0,74.0,VCU,2.0,-18.0
+2011,R64,1,Purdue,3.0,65.0,Saint Peter's,14.0,43.0,Purdue,1.0,22.0
+2011,R64,1,Texas A&M,7.0,50.0,Florida State,10.0,57.0,Florida State,2.0,-7.0
+2011,R64,1,Notre Dame,2.0,69.0,Akron,15.0,56.0,Notre Dame,1.0,13.0
+2011,R32,2,Kansas,1.0,73.0,Illinois,9.0,59.0,Kansas,1.0,14.0
+2011,R32,2,Richmond,12.0,65.0,Morehead State,13.0,48.0,Richmond,1.0,17.0
+2011,R32,2,VCU,11.0,94.0,Purdue,3.0,76.0,VCU,1.0,18.0
+2011,R32,2,Florida State,10.0,71.0,Notre Dame,2.0,57.0,Florida State,1.0,14.0
+2011,S16,3,Kansas,1.0,77.0,Richmond,12.0,57.0,Kansas,1.0,20.0
+2011,S16,3,VCU,11.0,72.0,Florida State,10.0,71.0,VCU,1.0,1.0
+2011,E8,4,Kansas,1.0,61.0,VCU,11.0,71.0,VCU,2.0,-10.0
+2011,R64,1,Duke,1.0,87.0,Hampton,16.0,45.0,Duke,1.0,42.0
+2011,R64,1,Michigan,8.0,75.0,Tennessee,9.0,45.0,Michigan,1.0,30.0
+2011,R64,1,Arizona,5.0,77.0,Memphis,12.0,75.0,Arizona,1.0,2.0
+2011,R64,1,Texas,4.0,85.0,Oakland,13.0,81.0,Texas,1.0,4.0
+2011,R64,1,Cincinnati,6.0,78.0,Missouri,11.0,63.0,Cincinnati,1.0,15.0
+2011,R64,1,UConn,3.0,81.0,Bucknell,14.0,52.0,UConn,1.0,29.0
+2011,R64,1,Temple,7.0,66.0,Penn State,10.0,64.0,Temple,1.0,2.0
+2011,R64,1,San Diego State,2.0,68.0,Northern Colorado,15.0,50.0,San Diego State,1.0,18.0
+2011,R32,2,Duke,1.0,73.0,Michigan,8.0,71.0,Duke,1.0,2.0
+2011,R32,2,Arizona,5.0,70.0,Texas,4.0,69.0,Arizona,1.0,1.0
+2011,R32,2,Cincinnati,6.0,58.0,UConn,3.0,69.0,UConn,2.0,-11.0
+2011,R32,2,Temple,7.0,64.0,San Diego State,2.0,71.0,San Diego State,2.0,-7.0
+2011,S16,3,Duke,1.0,77.0,Arizona,5.0,93.0,Arizona,2.0,-16.0
+2011,S16,3,UConn,3.0,74.0,San Diego State,2.0,67.0,UConn,1.0,7.0
+2011,E8,4,Arizona,5.0,63.0,UConn,3.0,65.0,UConn,2.0,-2.0
+2011,F4,5,Kentucky,4.0,55.0,UConn,3.0,56.0,UConn,2.0,-1.0
+2011,F4,5,Butler,8.0,70.0,VCU,11.0,62.0,Butler,1.0,8.0
+2011,Championship,6,UConn,3.0,53.0,Butler,8.0,41.0,UConn,1.0,12.0
+2012,R64,1,Syracuse,1.0,72.0,UNC Asheville,16.0,65.0,Syracuse,1.0,7.0
+2012,R64,1,Kansas State,8.0,70.0,Southern Miss,9.0,64.0,Kansas State,1.0,6.0
+2012,R64,1,Vanderbilt,5.0,79.0,Harvard,12.0,70.0,Vanderbilt,1.0,9.0
+2012,R64,1,Wisconsin,4.0,73.0,Montana,13.0,49.0,Wisconsin,1.0,24.0
+2012,R64,1,Cincinnati,6.0,65.0,Texas,11.0,59.0,Cincinnati,1.0,6.0
+2012,R64,1,Florida State,3.0,66.0,St. Bonaventure,14.0,63.0,Florida State,1.0,3.0
+2012,R64,1,Gonzaga,7.0,77.0,West Virginia,10.0,54.0,Gonzaga,1.0,23.0
+2012,R64,1,Ohio State,2.0,78.0,Loyola (MD),15.0,59.0,Ohio State,1.0,19.0
+2012,R32,2,Syracuse,1.0,75.0,Kansas State,8.0,59.0,Syracuse,1.0,16.0
+2012,R32,2,Vanderbilt,5.0,57.0,Wisconsin,4.0,60.0,Wisconsin,2.0,-3.0
+2012,R32,2,Cincinnati,6.0,62.0,Florida State,3.0,56.0,Cincinnati,1.0,6.0
+2012,R32,2,Gonzaga,7.0,66.0,Ohio State,2.0,73.0,Ohio State,2.0,-7.0
+2012,S16,3,Syracuse,1.0,64.0,Wisconsin,4.0,63.0,Syracuse,1.0,1.0
+2012,S16,3,Cincinnati,6.0,66.0,Ohio State,2.0,81.0,Ohio State,2.0,-15.0
+2012,E8,4,Syracuse,1.0,70.0,Ohio State,2.0,77.0,Ohio State,2.0,-7.0
+2012,R64,1,UNC,1.0,77.0,Vermont,16.0,58.0,UNC,1.0,19.0
+2012,R64,1,Creighton,8.0,58.0,Alabama,9.0,57.0,Creighton,1.0,1.0
+2012,R64,1,Temple,5.0,44.0,South Florida,12.0,58.0,South Florida,2.0,-14.0
+2012,R64,1,Michigan,4.0,60.0,Ohio,13.0,65.0,Ohio,2.0,-5.0
+2012,R64,1,San Diego State,6.0,65.0,NC State,11.0,79.0,NC State,2.0,-14.0
+2012,R64,1,Georgetown,3.0,74.0,Belmont,14.0,59.0,Georgetown,1.0,15.0
+2012,R64,1,Saint Mary's,7.0,69.0,Purdue,10.0,72.0,Purdue,2.0,-3.0
+2012,R64,1,Kansas,2.0,65.0,Detroit Mercy,15.0,50.0,Kansas,1.0,15.0
+2012,R32,2,UNC,1.0,87.0,Creighton,8.0,73.0,UNC,1.0,14.0
+2012,R32,2,South Florida,12.0,56.0,Ohio,13.0,62.0,Ohio,2.0,-6.0
+2012,R32,2,NC State,11.0,66.0,Georgetown,3.0,63.0,NC State,1.0,3.0
+2012,R32,2,Purdue,10.0,60.0,Kansas,2.0,63.0,Kansas,2.0,-3.0
+2012,S16,3,UNC,1.0,73.0,Ohio,13.0,65.0,UNC,1.0,8.0
+2012,S16,3,NC State,11.0,57.0,Kansas,2.0,60.0,Kansas,2.0,-3.0
+2012,E8,4,UNC,1.0,67.0,Kansas,2.0,80.0,Kansas,2.0,-13.0
+2012,R64,1,Kentucky,1.0,81.0,Western Kentucky,16.0,66.0,Kentucky,1.0,15.0
+2012,R64,1,Iowa State,8.0,77.0,UConn,9.0,64.0,Iowa State,1.0,13.0
+2012,R64,1,Wichita State,5.0,59.0,VCU,12.0,62.0,VCU,2.0,-3.0
+2012,R64,1,Indiana,4.0,79.0,New Mexico State,13.0,66.0,Indiana,1.0,13.0
+2012,R64,1,UNLV,6.0,64.0,Colorado,11.0,68.0,Colorado,2.0,-4.0
+2012,R64,1,Baylor,3.0,68.0,South Dakota State,14.0,60.0,Baylor,1.0,8.0
+2012,R64,1,Notre Dame,7.0,63.0,Xavier,10.0,67.0,Xavier,2.0,-4.0
+2012,R64,1,Duke,2.0,70.0,Lehigh,15.0,75.0,Lehigh,2.0,-5.0
+2012,R32,2,Kentucky,1.0,87.0,Iowa State,8.0,71.0,Kentucky,1.0,16.0
+2012,R32,2,VCU,12.0,61.0,Indiana,4.0,63.0,Indiana,2.0,-2.0
+2012,R32,2,Colorado,11.0,63.0,Baylor,3.0,80.0,Baylor,2.0,-17.0
+2012,R32,2,Xavier,10.0,70.0,Lehigh,15.0,58.0,Xavier,1.0,12.0
+2012,S16,3,Kentucky,1.0,102.0,Indiana,4.0,90.0,Kentucky,1.0,12.0
+2012,S16,3,Baylor,3.0,75.0,Xavier,10.0,70.0,Baylor,1.0,5.0
+2012,E8,4,Kentucky,1.0,82.0,Baylor,3.0,70.0,Kentucky,1.0,12.0
+2012,R64,1,Michigan State,1.0,89.0,LIU,16.0,67.0,Michigan State,1.0,22.0
+2012,R64,1,Memphis,8.0,54.0,Saint Louis,9.0,61.0,Saint Louis,2.0,-7.0
+2012,R64,1,New Mexico,5.0,75.0,Long Beach State,12.0,68.0,New Mexico,1.0,7.0
+2012,R64,1,Louisville,4.0,69.0,Davidson,13.0,62.0,Louisville,1.0,7.0
+2012,R64,1,Murray State,6.0,58.0,Colorado State,11.0,41.0,Murray State,1.0,17.0
+2012,R64,1,Marquette,3.0,88.0,BYU,14.0,68.0,Marquette,1.0,20.0
+2012,R64,1,Florida,7.0,71.0,Virginia,10.0,45.0,Florida,1.0,26.0
+2012,R64,1,Missouri,2.0,84.0,Norfolk State,15.0,86.0,Norfolk State,2.0,-2.0
+2012,R32,2,Michigan State,1.0,65.0,Saint Louis,9.0,61.0,Michigan State,1.0,4.0
+2012,R32,2,New Mexico,5.0,56.0,Louisville,4.0,59.0,Louisville,2.0,-3.0
+2012,R32,2,Murray State,6.0,53.0,Marquette,3.0,62.0,Marquette,2.0,-9.0
+2012,R32,2,Florida,7.0,84.0,Norfolk State,15.0,50.0,Florida,1.0,34.0
+2012,S16,3,Michigan State,1.0,44.0,Louisville,4.0,57.0,Louisville,2.0,-13.0
+2012,S16,3,Marquette,3.0,58.0,Florida,7.0,68.0,Florida,2.0,-10.0
+2012,E8,4,Louisville,4.0,72.0,Florida,7.0,68.0,Louisville,1.0,4.0
+2012,F4,5,Ohio State,2.0,62.0,Kansas,2.0,64.0,Kansas,2.0,-2.0
+2012,F4,5,Kentucky,1.0,69.0,Louisville,4.0,61.0,Kentucky,1.0,8.0
+2012,Championship,6,Kansas,2.0,59.0,Kentucky,1.0,67.0,Kentucky,2.0,-8.0
+2013,R64,1,Indiana,1.0,83.0,James Madison,16.0,62.0,Indiana,1.0,21.0
+2013,R64,1,NC State,8.0,72.0,Temple,9.0,76.0,Temple,2.0,-4.0
+2013,R64,1,UNLV,5.0,61.0,California,12.0,64.0,California,2.0,-3.0
+2013,R64,1,Syracuse,4.0,81.0,Montana,13.0,34.0,Syracuse,1.0,47.0
+2013,R64,1,Butler,6.0,68.0,Bucknell,11.0,56.0,Butler,1.0,12.0
+2013,R64,1,Marquette,3.0,59.0,Davidson,14.0,58.0,Marquette,1.0,1.0
+2013,R64,1,Illinois,7.0,57.0,Colorado,10.0,49.0,Illinois,1.0,8.0
+2013,R64,1,Miami (FL),2.0,78.0,Pacific,15.0,49.0,Miami (FL),1.0,29.0
+2013,R32,2,Indiana,1.0,58.0,Temple,9.0,52.0,Indiana,1.0,6.0
+2013,R32,2,California,12.0,60.0,Syracuse,4.0,66.0,Syracuse,2.0,-6.0
+2013,R32,2,Butler,6.0,72.0,Marquette,3.0,74.0,Marquette,2.0,-2.0
+2013,R32,2,Illinois,7.0,59.0,Miami (FL),2.0,63.0,Miami (FL),2.0,-4.0
+2013,S16,3,Indiana,1.0,50.0,Syracuse,4.0,61.0,Syracuse,2.0,-11.0
+2013,S16,3,Marquette,3.0,71.0,Miami (FL),2.0,61.0,Marquette,1.0,10.0
+2013,E8,4,Syracuse,4.0,55.0,Marquette,3.0,39.0,Syracuse,1.0,16.0
+2013,R64,1,Louisville,1.0,79.0,North Carolina A&T,16.0,48.0,Louisville,1.0,31.0
+2013,R64,1,Colorado State,8.0,84.0,Missouri,9.0,72.0,Colorado State,1.0,12.0
+2013,R64,1,Oklahoma State,5.0,55.0,Oregon,12.0,68.0,Oregon,2.0,-13.0
+2013,R64,1,Saint Louis,4.0,64.0,New Mexico State,13.0,44.0,Saint Louis,1.0,20.0
+2013,R64,1,Memphis,6.0,54.0,Saint Mary's,11.0,52.0,Memphis,1.0,2.0
+2013,R64,1,Michigan State,3.0,65.0,Valparaiso,14.0,54.0,Michigan State,1.0,11.0
+2013,R64,1,Creighton,7.0,67.0,Cincinnati,10.0,63.0,Creighton,1.0,4.0
+2013,R64,1,Duke,2.0,73.0,Albany (NY),15.0,61.0,Duke,1.0,12.0
+2013,R32,2,Louisville,1.0,82.0,Colorado State,8.0,56.0,Louisville,1.0,26.0
+2013,R32,2,Oregon,12.0,74.0,Saint Louis,4.0,57.0,Oregon,1.0,17.0
+2013,R32,2,Memphis,6.0,48.0,Michigan State,3.0,70.0,Michigan State,2.0,-22.0
+2013,R32,2,Creighton,7.0,50.0,Duke,2.0,66.0,Duke,2.0,-16.0
+2013,S16,3,Louisville,1.0,77.0,Oregon,12.0,69.0,Louisville,1.0,8.0
+2013,S16,3,Michigan State,3.0,61.0,Duke,2.0,71.0,Duke,2.0,-10.0
+2013,E8,4,Louisville,1.0,85.0,Duke,2.0,63.0,Louisville,1.0,22.0
+2013,R64,1,Kansas,1.0,64.0,Western Kentucky,16.0,57.0,Kansas,1.0,7.0
+2013,R64,1,UNC,8.0,78.0,Villanova,9.0,71.0,UNC,1.0,7.0
+2013,R64,1,VCU,5.0,88.0,Akron,12.0,42.0,VCU,1.0,46.0
+2013,R64,1,Michigan,4.0,71.0,South Dakota State,13.0,56.0,Michigan,1.0,15.0
+2013,R64,1,UCLA,6.0,63.0,Minnesota,11.0,83.0,Minnesota,2.0,-20.0
+2013,R64,1,Florida,3.0,79.0,Northwestern State,14.0,47.0,Florida,1.0,32.0
+2013,R64,1,San Diego State,7.0,70.0,Oklahoma,10.0,55.0,San Diego State,1.0,15.0
+2013,R64,1,Georgetown,2.0,68.0,Florida Gulf Coast,15.0,78.0,Florida Gulf Coast,2.0,-10.0
+2013,R32,2,Kansas,1.0,70.0,UNC,8.0,58.0,Kansas,1.0,12.0
+2013,R32,2,VCU,5.0,53.0,Michigan,4.0,78.0,Michigan,2.0,-25.0
+2013,R32,2,Minnesota,11.0,64.0,Florida,3.0,78.0,Florida,2.0,-14.0
+2013,R32,2,San Diego State,7.0,71.0,Florida Gulf Coast,15.0,81.0,Florida Gulf Coast,2.0,-10.0
+2013,S16,3,Kansas,1.0,85.0,Michigan,4.0,87.0,Michigan,2.0,-2.0
+2013,S16,3,Florida,3.0,62.0,Florida Gulf Coast,15.0,50.0,Florida,1.0,12.0
+2013,E8,4,Michigan,4.0,79.0,Florida,3.0,59.0,Michigan,1.0,20.0
+2013,R64,1,Gonzaga,1.0,64.0,Southern,16.0,58.0,Gonzaga,1.0,6.0
+2013,R64,1,Pitt,8.0,55.0,Wichita State,9.0,73.0,Wichita State,2.0,-18.0
+2013,R64,1,Wisconsin,5.0,46.0,Ole Miss,12.0,57.0,Ole Miss,2.0,-11.0
+2013,R64,1,Kansas State,4.0,61.0,La Salle,13.0,63.0,La Salle,2.0,-2.0
+2013,R64,1,Arizona,6.0,81.0,Belmont,11.0,64.0,Arizona,1.0,17.0
+2013,R64,1,New Mexico,3.0,62.0,Harvard,14.0,68.0,Harvard,2.0,-6.0
+2013,R64,1,Notre Dame,7.0,58.0,Iowa State,10.0,76.0,Iowa State,2.0,-18.0
+2013,R64,1,Ohio State,2.0,95.0,Iona,15.0,70.0,Ohio State,1.0,25.0
+2013,R32,2,Gonzaga,1.0,70.0,Wichita State,9.0,76.0,Wichita State,2.0,-6.0
+2013,R32,2,Ole Miss,12.0,74.0,La Salle,13.0,76.0,La Salle,2.0,-2.0
+2013,R32,2,Arizona,6.0,74.0,Harvard,14.0,51.0,Arizona,1.0,23.0
+2013,R32,2,Iowa State,10.0,75.0,Ohio State,2.0,78.0,Ohio State,2.0,-3.0
+2013,S16,3,Wichita State,9.0,72.0,La Salle,13.0,58.0,Wichita State,1.0,14.0
+2013,S16,3,Arizona,6.0,70.0,Ohio State,2.0,73.0,Ohio State,2.0,-3.0
+2013,E8,4,Wichita State,9.0,70.0,Ohio State,2.0,66.0,Wichita State,1.0,4.0
+2013,F4,5,Syracuse,4.0,56.0,Michigan,4.0,61.0,Michigan,2.0,-5.0
+2013,F4,5,Louisville,1.0,72.0,Wichita State,9.0,68.0,Louisville,1.0,4.0
+2013,Championship,6,Michigan,4.0,76.0,Louisville,1.0,82.0,Louisville,2.0,-6.0
+2014,R64,1,Virginia,1.0,70.0,Coastal Carolina,16.0,59.0,Virginia,1.0,11.0
+2014,R64,1,Memphis,8.0,71.0,George Washington,9.0,66.0,Memphis,1.0,5.0
+2014,R64,1,Cincinnati,5.0,57.0,Harvard,12.0,61.0,Harvard,2.0,-4.0
+2014,R64,1,Michigan State,4.0,93.0,Delaware,13.0,78.0,Michigan State,1.0,15.0
+2014,R64,1,UNC,6.0,79.0,Providence,11.0,77.0,UNC,1.0,2.0
+2014,R64,1,Iowa State,3.0,93.0,North Carolina Central,14.0,75.0,Iowa State,1.0,18.0
+2014,R64,1,UConn,7.0,89.0,Saint Joseph's,10.0,81.0,UConn,1.0,8.0
+2014,R64,1,Villanova,2.0,73.0,Milwaukee,15.0,53.0,Villanova,1.0,20.0
+2014,R32,2,Virginia,1.0,78.0,Memphis,8.0,60.0,Virginia,1.0,18.0
+2014,R32,2,Harvard,12.0,73.0,Michigan State,4.0,80.0,Michigan State,2.0,-7.0
+2014,R32,2,UNC,6.0,83.0,Iowa State,3.0,85.0,Iowa State,2.0,-2.0
+2014,R32,2,UConn,7.0,77.0,Villanova,2.0,65.0,UConn,1.0,12.0
+2014,S16,3,Virginia,1.0,59.0,Michigan State,4.0,61.0,Michigan State,2.0,-2.0
+2014,S16,3,Iowa State,3.0,76.0,UConn,7.0,81.0,UConn,2.0,-5.0
+2014,E8,4,Michigan State,4.0,54.0,UConn,7.0,60.0,UConn,2.0,-6.0
+2014,R64,1,Wichita State,1.0,64.0,Cal Poly,16.0,37.0,Wichita State,1.0,27.0
+2014,R64,1,Kentucky,8.0,56.0,Kansas State,9.0,49.0,Kentucky,1.0,7.0
+2014,R64,1,Saint Louis,5.0,83.0,NC State,12.0,80.0,Saint Louis,1.0,3.0
+2014,R64,1,Louisville,4.0,71.0,Manhattan,13.0,64.0,Louisville,1.0,7.0
+2014,R64,1,UMass,6.0,67.0,Tennessee,11.0,86.0,Tennessee,2.0,-19.0
+2014,R64,1,Duke,3.0,71.0,Mercer,14.0,78.0,Mercer,2.0,-7.0
+2014,R64,1,Texas,7.0,87.0,Arizona State,10.0,85.0,Texas,1.0,2.0
+2014,R64,1,Michigan,2.0,57.0,Wofford,15.0,40.0,Michigan,1.0,17.0
+2014,R32,2,Wichita State,1.0,76.0,Kentucky,8.0,78.0,Kentucky,2.0,-2.0
+2014,R32,2,Saint Louis,5.0,51.0,Louisville,4.0,66.0,Louisville,2.0,-15.0
+2014,R32,2,Tennessee,11.0,83.0,Mercer,14.0,63.0,Tennessee,1.0,20.0
+2014,R32,2,Texas,7.0,65.0,Michigan,2.0,79.0,Michigan,2.0,-14.0
+2014,S16,3,Kentucky,8.0,74.0,Louisville,4.0,69.0,Kentucky,1.0,5.0
+2014,S16,3,Tennessee,11.0,71.0,Michigan,2.0,73.0,Michigan,2.0,-2.0
+2014,E8,4,Kentucky,8.0,75.0,Michigan,2.0,72.0,Kentucky,1.0,3.0
+2014,R64,1,Florida,1.0,67.0,Albany (NY),16.0,55.0,Florida,1.0,12.0
+2014,R64,1,Colorado,8.0,48.0,Pitt,9.0,77.0,Pitt,2.0,-29.0
+2014,R64,1,VCU,5.0,75.0,Stephen F. Austin,12.0,77.0,Stephen F. Austin,2.0,-2.0
+2014,R64,1,UCLA,4.0,76.0,Tulsa,13.0,59.0,UCLA,1.0,17.0
+2014,R64,1,Ohio State,6.0,59.0,Dayton,11.0,60.0,Dayton,2.0,-1.0
+2014,R64,1,Syracuse,3.0,77.0,Western Michigan,14.0,53.0,Syracuse,1.0,24.0
+2014,R64,1,New Mexico,7.0,53.0,Stanford,10.0,58.0,Stanford,2.0,-5.0
+2014,R64,1,Kansas,2.0,80.0,Eastern Kentucky,15.0,69.0,Kansas,1.0,11.0
+2014,R32,2,Florida,1.0,61.0,Pitt,9.0,45.0,Florida,1.0,16.0
+2014,R32,2,Stephen F. Austin,12.0,60.0,UCLA,4.0,77.0,UCLA,2.0,-17.0
+2014,R32,2,Dayton,11.0,55.0,Syracuse,3.0,53.0,Dayton,1.0,2.0
+2014,R32,2,Stanford,10.0,60.0,Kansas,2.0,57.0,Stanford,1.0,3.0
+2014,S16,3,Florida,1.0,79.0,UCLA,4.0,68.0,Florida,1.0,11.0
+2014,S16,3,Dayton,11.0,82.0,Stanford,10.0,72.0,Dayton,1.0,10.0
+2014,E8,4,Florida,1.0,62.0,Dayton,11.0,52.0,Florida,1.0,10.0
+2014,R64,1,Arizona,1.0,68.0,Weber State,16.0,59.0,Arizona,1.0,9.0
+2014,R64,1,Gonzaga,8.0,85.0,Oklahoma State,9.0,77.0,Gonzaga,1.0,8.0
+2014,R64,1,Oklahoma,5.0,75.0,North Dakota State,12.0,80.0,North Dakota State,2.0,-5.0
+2014,R64,1,San Diego State,4.0,73.0,New Mexico State,13.0,69.0,San Diego State,1.0,4.0
+2014,R64,1,Baylor,6.0,74.0,Nebraska,11.0,60.0,Baylor,1.0,14.0
+2014,R64,1,Creighton,3.0,76.0,Louisiana,14.0,66.0,Creighton,1.0,10.0
+2014,R64,1,Oregon,7.0,87.0,BYU,10.0,68.0,Oregon,1.0,19.0
+2014,R64,1,Wisconsin,2.0,75.0,American,15.0,35.0,Wisconsin,1.0,40.0
+2014,R32,2,Arizona,1.0,84.0,Gonzaga,8.0,61.0,Arizona,1.0,23.0
+2014,R32,2,North Dakota State,12.0,44.0,San Diego State,4.0,63.0,San Diego State,2.0,-19.0
+2014,R32,2,Baylor,6.0,85.0,Creighton,3.0,55.0,Baylor,1.0,30.0
+2014,R32,2,Oregon,7.0,77.0,Wisconsin,2.0,85.0,Wisconsin,2.0,-8.0
+2014,S16,3,Arizona,1.0,70.0,San Diego State,4.0,64.0,Arizona,1.0,6.0
+2014,S16,3,Baylor,6.0,52.0,Wisconsin,2.0,69.0,Wisconsin,2.0,-17.0
+2014,E8,4,Arizona,1.0,63.0,Wisconsin,2.0,64.0,Wisconsin,2.0,-1.0
+2014,F4,5,UConn,7.0,63.0,Florida,1.0,53.0,UConn,1.0,10.0
+2014,F4,5,Kentucky,8.0,74.0,Wisconsin,2.0,73.0,Kentucky,1.0,1.0
+2014,Championship,6,UConn,7.0,60.0,Kentucky,8.0,54.0,UConn,1.0,6.0
+2015,R64,1,Villanova,1.0,93.0,Lafayette,16.0,52.0,Villanova,1.0,41.0
+2015,R64,1,NC State,8.0,66.0,LSU,9.0,65.0,NC State,1.0,1.0
+2015,R64,1,Northern Iowa,5.0,71.0,Wyoming,12.0,54.0,Northern Iowa,1.0,17.0
+2015,R64,1,Louisville,4.0,57.0,UC Irvine,13.0,55.0,Louisville,1.0,2.0
+2015,R64,1,Providence,6.0,53.0,Dayton,11.0,66.0,Dayton,2.0,-13.0
+2015,R64,1,Oklahoma,3.0,69.0,Albany (NY),14.0,60.0,Oklahoma,1.0,9.0
+2015,R64,1,Michigan State,7.0,70.0,Georgia,10.0,63.0,Michigan State,1.0,7.0
+2015,R64,1,Virginia,2.0,79.0,Belmont,15.0,67.0,Virginia,1.0,12.0
+2015,R32,2,Villanova,1.0,68.0,NC State,8.0,71.0,NC State,2.0,-3.0
+2015,R32,2,Northern Iowa,5.0,53.0,Louisville,4.0,66.0,Louisville,2.0,-13.0
+2015,R32,2,Dayton,11.0,66.0,Oklahoma,3.0,72.0,Oklahoma,2.0,-6.0
+2015,R32,2,Michigan State,7.0,60.0,Virginia,2.0,54.0,Michigan State,1.0,6.0
+2015,S16,3,NC State,8.0,65.0,Louisville,4.0,75.0,Louisville,2.0,-10.0
+2015,S16,3,Oklahoma,3.0,58.0,Michigan State,7.0,62.0,Michigan State,2.0,-4.0
+2015,E8,4,Louisville,4.0,70.0,Michigan State,7.0,76.0,Michigan State,2.0,-6.0
+2015,R64,1,Kentucky,1.0,79.0,Hampton,16.0,56.0,Kentucky,1.0,23.0
+2015,R64,1,Cincinnati,8.0,66.0,Purdue,9.0,65.0,Cincinnati,1.0,1.0
+2015,R64,1,West Virginia,5.0,68.0,Buffalo,12.0,62.0,West Virginia,1.0,6.0
+2015,R64,1,Maryland,4.0,65.0,Valparaiso,13.0,62.0,Maryland,1.0,3.0
+2015,R64,1,Butler,6.0,56.0,Texas,11.0,48.0,Butler,1.0,8.0
+2015,R64,1,Notre Dame,3.0,69.0,Northeastern,14.0,65.0,Notre Dame,1.0,4.0
+2015,R64,1,Wichita State,7.0,81.0,Indiana,10.0,76.0,Wichita State,1.0,5.0
+2015,R64,1,Kansas,2.0,75.0,New Mexico State,15.0,56.0,Kansas,1.0,19.0
+2015,R32,2,Kentucky,1.0,64.0,Cincinnati,8.0,51.0,Kentucky,1.0,13.0
+2015,R32,2,West Virginia,5.0,69.0,Maryland,4.0,59.0,West Virginia,1.0,10.0
+2015,R32,2,Butler,6.0,64.0,Notre Dame,3.0,67.0,Notre Dame,2.0,-3.0
+2015,R32,2,Wichita State,7.0,78.0,Kansas,2.0,65.0,Wichita State,1.0,13.0
+2015,S16,3,Kentucky,1.0,78.0,West Virginia,5.0,39.0,Kentucky,1.0,39.0
+2015,S16,3,Notre Dame,3.0,81.0,Wichita State,7.0,70.0,Notre Dame,1.0,11.0
+2015,E8,4,Kentucky,1.0,68.0,Notre Dame,3.0,66.0,Kentucky,1.0,2.0
+2015,R64,1,Duke,1.0,85.0,Robert Morris,16.0,56.0,Duke,1.0,29.0
+2015,R64,1,San Diego State,8.0,76.0,St. John's (NY),9.0,64.0,San Diego State,1.0,12.0
+2015,R64,1,Utah,5.0,57.0,Stephen F. Austin,12.0,50.0,Utah,1.0,7.0
+2015,R64,1,Georgetown,4.0,84.0,Eastern Washington,13.0,74.0,Georgetown,1.0,10.0
+2015,R64,1,SMU,6.0,59.0,UCLA,11.0,60.0,UCLA,2.0,-1.0
+2015,R64,1,Iowa State,3.0,59.0,UAB,14.0,60.0,UAB,2.0,-1.0
+2015,R64,1,Iowa,7.0,83.0,Davidson,10.0,52.0,Iowa,1.0,31.0
+2015,R64,1,Gonzaga,2.0,86.0,North Dakota State,15.0,76.0,Gonzaga,1.0,10.0
+2015,R32,2,Duke,1.0,68.0,San Diego State,8.0,49.0,Duke,1.0,19.0
+2015,R32,2,Utah,5.0,75.0,Georgetown,4.0,64.0,Utah,1.0,11.0
+2015,R32,2,UCLA,11.0,92.0,UAB,14.0,75.0,UCLA,1.0,17.0
+2015,R32,2,Iowa,7.0,68.0,Gonzaga,2.0,87.0,Gonzaga,2.0,-19.0
+2015,S16,3,Duke,1.0,63.0,Utah,5.0,57.0,Duke,1.0,6.0
+2015,S16,3,UCLA,11.0,62.0,Gonzaga,2.0,74.0,Gonzaga,2.0,-12.0
+2015,E8,4,Duke,1.0,66.0,Gonzaga,2.0,52.0,Duke,1.0,14.0
+2015,R64,1,Wisconsin,1.0,86.0,Coastal Carolina,16.0,72.0,Wisconsin,1.0,14.0
+2015,R64,1,Oregon,8.0,79.0,Oklahoma State,9.0,73.0,Oregon,1.0,6.0
+2015,R64,1,Arkansas,5.0,56.0,Wofford,12.0,53.0,Arkansas,1.0,3.0
+2015,R64,1,UNC,4.0,67.0,Harvard,13.0,65.0,UNC,1.0,2.0
+2015,R64,1,Xavier,6.0,76.0,Ole Miss,11.0,57.0,Xavier,1.0,19.0
+2015,R64,1,Baylor,3.0,56.0,Georgia State,14.0,57.0,Georgia State,2.0,-1.0
+2015,R64,1,VCU,7.0,72.0,Ohio State,10.0,75.0,Ohio State,2.0,-3.0
+2015,R64,1,Arizona,2.0,93.0,Texas Southern,15.0,72.0,Arizona,1.0,21.0
+2015,R32,2,Wisconsin,1.0,72.0,Oregon,8.0,65.0,Wisconsin,1.0,7.0
+2015,R32,2,Arkansas,5.0,78.0,UNC,4.0,87.0,UNC,2.0,-9.0
+2015,R32,2,Xavier,6.0,75.0,Georgia State,14.0,67.0,Xavier,1.0,8.0
+2015,R32,2,Ohio State,10.0,58.0,Arizona,2.0,73.0,Arizona,2.0,-15.0
+2015,S16,3,Wisconsin,1.0,79.0,UNC,4.0,72.0,Wisconsin,1.0,7.0
+2015,S16,3,Xavier,6.0,60.0,Arizona,2.0,68.0,Arizona,2.0,-8.0
+2015,E8,4,Wisconsin,1.0,85.0,Arizona,2.0,78.0,Wisconsin,1.0,7.0
+2015,F4,5,Michigan State,7.0,61.0,Duke,1.0,81.0,Duke,2.0,-20.0
+2015,F4,5,Kentucky,1.0,64.0,Wisconsin,1.0,71.0,Wisconsin,2.0,-7.0
+2015,Championship,6,Duke,1.0,68.0,Wisconsin,1.0,63.0,Duke,1.0,5.0
+2016,R64,1,UNC,1.0,83.0,Florida Gulf Coast,16.0,67.0,UNC,1.0,16.0
+2016,R64,1,USC,8.0,69.0,Providence,9.0,70.0,Providence,2.0,-1.0
+2016,R64,1,Indiana,5.0,99.0,Chattanooga,12.0,74.0,Indiana,1.0,25.0
+2016,R64,1,Kentucky,4.0,85.0,Stony Brook,13.0,57.0,Kentucky,1.0,28.0
+2016,R64,1,Notre Dame,6.0,70.0,Michigan,11.0,63.0,Notre Dame,1.0,7.0
+2016,R64,1,West Virginia,3.0,56.0,Stephen F. Austin,14.0,70.0,Stephen F. Austin,2.0,-14.0
+2016,R64,1,Wisconsin,7.0,47.0,Pitt,10.0,43.0,Wisconsin,1.0,4.0
+2016,R64,1,Xavier,2.0,71.0,Weber State,15.0,53.0,Xavier,1.0,18.0
+2016,R32,2,UNC,1.0,85.0,Providence,9.0,66.0,UNC,1.0,19.0
+2016,R32,2,Indiana,5.0,73.0,Kentucky,4.0,67.0,Indiana,1.0,6.0
+2016,R32,2,Notre Dame,6.0,76.0,Stephen F. Austin,14.0,75.0,Notre Dame,1.0,1.0
+2016,R32,2,Wisconsin,7.0,66.0,Xavier,2.0,63.0,Wisconsin,1.0,3.0
+2016,S16,3,UNC,1.0,101.0,Indiana,5.0,86.0,UNC,1.0,15.0
+2016,S16,3,Notre Dame,6.0,61.0,Wisconsin,7.0,56.0,Notre Dame,1.0,5.0
+2016,E8,4,UNC,1.0,88.0,Notre Dame,6.0,74.0,UNC,1.0,14.0
+2016,R64,1,Virginia,1.0,81.0,Hampton,16.0,45.0,Virginia,1.0,36.0
+2016,R64,1,Texas Tech,8.0,61.0,Butler,9.0,71.0,Butler,2.0,-10.0
+2016,R64,1,Purdue,5.0,83.0,Little Rock,12.0,85.0,Little Rock,2.0,-2.0
+2016,R64,1,Iowa State,4.0,94.0,Iona,13.0,81.0,Iowa State,1.0,13.0
+2016,R64,1,Seton Hall,6.0,52.0,Gonzaga,11.0,68.0,Gonzaga,2.0,-16.0
+2016,R64,1,Utah,3.0,80.0,Fresno State,14.0,69.0,Utah,1.0,11.0
+2016,R64,1,Dayton,7.0,51.0,Syracuse,10.0,70.0,Syracuse,2.0,-19.0
+2016,R64,1,Michigan State,2.0,81.0,Middle Tennessee,15.0,90.0,Middle Tennessee,2.0,-9.0
+2016,R32,2,Virginia,1.0,77.0,Butler,9.0,69.0,Virginia,1.0,8.0
+2016,R32,2,Little Rock,12.0,61.0,Iowa State,4.0,78.0,Iowa State,2.0,-17.0
+2016,R32,2,Gonzaga,11.0,82.0,Utah,3.0,59.0,Gonzaga,1.0,23.0
+2016,R32,2,Syracuse,10.0,75.0,Middle Tennessee,15.0,50.0,Syracuse,1.0,25.0
+2016,S16,3,Virginia,1.0,84.0,Iowa State,4.0,71.0,Virginia,1.0,13.0
+2016,S16,3,Gonzaga,11.0,60.0,Syracuse,10.0,63.0,Syracuse,2.0,-3.0
+2016,E8,4,Virginia,1.0,62.0,Syracuse,10.0,68.0,Syracuse,2.0,-6.0
+2016,R64,1,Kansas,1.0,105.0,Austin Peay,16.0,79.0,Kansas,1.0,26.0
+2016,R64,1,Colorado,8.0,67.0,UConn,9.0,74.0,UConn,2.0,-7.0
+2016,R64,1,Maryland,5.0,79.0,South Dakota State,12.0,74.0,Maryland,1.0,5.0
+2016,R64,1,California,4.0,66.0,Hawaii,13.0,77.0,Hawaii,2.0,-11.0
+2016,R64,1,Arizona,6.0,55.0,Wichita State,11.0,65.0,Wichita State,2.0,-10.0
+2016,R64,1,Miami (FL),3.0,79.0,Buffalo,14.0,72.0,Miami (FL),1.0,7.0
+2016,R64,1,Iowa,7.0,72.0,Temple,10.0,70.0,Iowa,1.0,2.0
+2016,R64,1,Villanova,2.0,86.0,UNC Asheville,15.0,56.0,Villanova,1.0,30.0
+2016,R32,2,Kansas,1.0,73.0,UConn,9.0,61.0,Kansas,1.0,12.0
+2016,R32,2,Maryland,5.0,73.0,Hawaii,13.0,60.0,Maryland,1.0,13.0
+2016,R32,2,Wichita State,11.0,57.0,Miami (FL),3.0,65.0,Miami (FL),2.0,-8.0
+2016,R32,2,Iowa,7.0,68.0,Villanova,2.0,87.0,Villanova,2.0,-19.0
+2016,S16,3,Kansas,1.0,79.0,Maryland,5.0,63.0,Kansas,1.0,16.0
+2016,S16,3,Miami (FL),3.0,69.0,Villanova,2.0,92.0,Villanova,2.0,-23.0
+2016,E8,4,Kansas,1.0,59.0,Villanova,2.0,64.0,Villanova,2.0,-5.0
+2016,R64,1,Oregon,1.0,91.0,Holy Cross,16.0,52.0,Oregon,1.0,39.0
+2016,R64,1,Saint Joseph's,8.0,78.0,Cincinnati,9.0,76.0,Saint Joseph's,1.0,2.0
+2016,R64,1,Baylor,5.0,75.0,Yale,12.0,79.0,Yale,2.0,-4.0
+2016,R64,1,Duke,4.0,93.0,UNC Wilmington,13.0,85.0,Duke,1.0,8.0
+2016,R64,1,Texas,6.0,72.0,Northern Iowa,11.0,75.0,Northern Iowa,2.0,-3.0
+2016,R64,1,Texas A&M,3.0,92.0,Green Bay,14.0,65.0,Texas A&M,1.0,27.0
+2016,R64,1,Oregon State,7.0,67.0,VCU,10.0,75.0,VCU,2.0,-8.0
+2016,R64,1,Oklahoma,2.0,82.0,Cal State Bakersfield,15.0,68.0,Oklahoma,1.0,14.0
+2016,R32,2,Oregon,1.0,69.0,Saint Joseph's,8.0,64.0,Oregon,1.0,5.0
+2016,R32,2,Yale,12.0,64.0,Duke,4.0,71.0,Duke,2.0,-7.0
+2016,R32,2,Northern Iowa,11.0,88.0,Texas A&M,3.0,92.0,Texas A&M,2.0,-4.0
+2016,R32,2,VCU,10.0,81.0,Oklahoma,2.0,85.0,Oklahoma,2.0,-4.0
+2016,S16,3,Oregon,1.0,82.0,Duke,4.0,68.0,Oregon,1.0,14.0
+2016,S16,3,Texas A&M,3.0,63.0,Oklahoma,2.0,77.0,Oklahoma,2.0,-14.0
+2016,E8,4,Oregon,1.0,68.0,Oklahoma,2.0,80.0,Oklahoma,2.0,-12.0
+2016,F4,5,UNC,1.0,83.0,Syracuse,10.0,66.0,UNC,1.0,17.0
+2016,F4,5,Villanova,2.0,95.0,Oklahoma,2.0,51.0,Villanova,1.0,44.0
+2016,Championship,6,UNC,1.0,74.0,Villanova,2.0,77.0,Villanova,2.0,-3.0
+2017,R64,1,Villanova,1.0,76.0,Mount St. Mary's,16.0,56.0,Villanova,1.0,20.0
+2017,R64,1,Wisconsin,8.0,84.0,Virginia Tech,9.0,74.0,Wisconsin,1.0,10.0
+2017,R64,1,Virginia,5.0,76.0,UNC Wilmington,12.0,71.0,Virginia,1.0,5.0
+2017,R64,1,Florida,4.0,80.0,ETSU,13.0,65.0,Florida,1.0,15.0
+2017,R64,1,SMU,6.0,65.0,USC,11.0,66.0,USC,2.0,-1.0
+2017,R64,1,Baylor,3.0,91.0,New Mexico State,14.0,73.0,Baylor,1.0,18.0
+2017,R64,1,South Carolina,7.0,93.0,Marquette,10.0,73.0,South Carolina,1.0,20.0
+2017,R64,1,Duke,2.0,87.0,Troy,15.0,65.0,Duke,1.0,22.0
+2017,R32,2,Villanova,1.0,62.0,Wisconsin,8.0,65.0,Wisconsin,2.0,-3.0
+2017,R32,2,Virginia,5.0,39.0,Florida,4.0,65.0,Florida,2.0,-26.0
+2017,R32,2,USC,11.0,78.0,Baylor,3.0,82.0,Baylor,2.0,-4.0
+2017,R32,2,South Carolina,7.0,88.0,Duke,2.0,81.0,South Carolina,1.0,7.0
+2017,S16,3,Wisconsin,8.0,83.0,Florida,4.0,84.0,Florida,2.0,-1.0
+2017,S16,3,Baylor,3.0,50.0,South Carolina,7.0,70.0,South Carolina,2.0,-20.0
+2017,E8,4,Florida,4.0,70.0,South Carolina,7.0,77.0,South Carolina,2.0,-7.0
+2017,R64,1,Kansas,1.0,100.0,UC Davis,16.0,62.0,Kansas,1.0,38.0
+2017,R64,1,Miami (FL),8.0,58.0,Michigan State,9.0,78.0,Michigan State,2.0,-20.0
+2017,R64,1,Iowa State,5.0,84.0,Nevada,12.0,73.0,Iowa State,1.0,11.0
+2017,R64,1,Purdue,4.0,80.0,Vermont,13.0,70.0,Purdue,1.0,10.0
+2017,R64,1,Creighton,6.0,72.0,Rhode Island,11.0,84.0,Rhode Island,2.0,-12.0
+2017,R64,1,Oregon,3.0,93.0,Iona,14.0,77.0,Oregon,1.0,16.0
+2017,R64,1,Michigan,7.0,92.0,Oklahoma State,10.0,91.0,Michigan,1.0,1.0
+2017,R64,1,Louisville,2.0,78.0,Jacksonville State,15.0,63.0,Louisville,1.0,15.0
+2017,R32,2,Kansas,1.0,90.0,Michigan State,9.0,70.0,Kansas,1.0,20.0
+2017,R32,2,Iowa State,5.0,76.0,Purdue,4.0,80.0,Purdue,2.0,-4.0
+2017,R32,2,Rhode Island,11.0,72.0,Oregon,3.0,75.0,Oregon,2.0,-3.0
+2017,R32,2,Michigan,7.0,73.0,Louisville,2.0,69.0,Michigan,1.0,4.0
+2017,S16,3,Kansas,1.0,98.0,Purdue,4.0,66.0,Kansas,1.0,32.0
+2017,S16,3,Oregon,3.0,69.0,Michigan,7.0,68.0,Oregon,1.0,1.0
+2017,E8,4,Kansas,1.0,60.0,Oregon,3.0,74.0,Oregon,2.0,-14.0
+2017,R64,1,UNC,1.0,103.0,Texas Southern,16.0,64.0,UNC,1.0,39.0
+2017,R64,1,Arkansas,8.0,77.0,Seton Hall,9.0,71.0,Arkansas,1.0,6.0
+2017,R64,1,Minnesota,5.0,72.0,Middle Tennessee,12.0,81.0,Middle Tennessee,2.0,-9.0
+2017,R64,1,Butler,4.0,76.0,Winthrop,13.0,64.0,Butler,1.0,12.0
+2017,R64,1,Cincinnati,6.0,75.0,Kansas State,11.0,61.0,Cincinnati,1.0,14.0
+2017,R64,1,UCLA,3.0,97.0,Kent State,14.0,80.0,UCLA,1.0,17.0
+2017,R64,1,Dayton,7.0,58.0,Wichita State,10.0,64.0,Wichita State,2.0,-6.0
+2017,R64,1,Kentucky,2.0,79.0,Northern Kentucky,15.0,70.0,Kentucky,1.0,9.0
+2017,R32,2,UNC,1.0,72.0,Arkansas,8.0,65.0,UNC,1.0,7.0
+2017,R32,2,Middle Tennessee,12.0,65.0,Butler,4.0,74.0,Butler,2.0,-9.0
+2017,R32,2,Cincinnati,6.0,67.0,UCLA,3.0,79.0,UCLA,2.0,-12.0
+2017,R32,2,Wichita State,10.0,62.0,Kentucky,2.0,65.0,Kentucky,2.0,-3.0
+2017,S16,3,UNC,1.0,92.0,Butler,4.0,80.0,UNC,1.0,12.0
+2017,S16,3,UCLA,3.0,75.0,Kentucky,2.0,86.0,Kentucky,2.0,-11.0
+2017,E8,4,UNC,1.0,75.0,Kentucky,2.0,73.0,UNC,1.0,2.0
+2017,R64,1,Gonzaga,1.0,66.0,South Dakota State,16.0,46.0,Gonzaga,1.0,20.0
+2017,R64,1,Northwestern,8.0,68.0,Vanderbilt,9.0,66.0,Northwestern,1.0,2.0
+2017,R64,1,Notre Dame,5.0,60.0,Princeton,12.0,58.0,Notre Dame,1.0,2.0
+2017,R64,1,West Virginia,4.0,86.0,Bucknell,13.0,80.0,West Virginia,1.0,6.0
+2017,R64,1,Maryland,6.0,65.0,Xavier,11.0,76.0,Xavier,2.0,-11.0
+2017,R64,1,Florida State,3.0,86.0,Florida Gulf Coast,14.0,80.0,Florida State,1.0,6.0
+2017,R64,1,Saint Mary's,7.0,85.0,VCU,10.0,77.0,Saint Mary's,1.0,8.0
+2017,R64,1,Arizona,2.0,100.0,North Dakota,15.0,82.0,Arizona,1.0,18.0
+2017,R32,2,Gonzaga,1.0,79.0,Northwestern,8.0,73.0,Gonzaga,1.0,6.0
+2017,R32,2,Notre Dame,5.0,71.0,West Virginia,4.0,83.0,West Virginia,2.0,-12.0
+2017,R32,2,Xavier,11.0,91.0,Florida State,3.0,66.0,Xavier,1.0,25.0
+2017,R32,2,Saint Mary's,7.0,60.0,Arizona,2.0,69.0,Arizona,2.0,-9.0
+2017,S16,3,Gonzaga,1.0,61.0,West Virginia,4.0,58.0,Gonzaga,1.0,3.0
+2017,S16,3,Xavier,11.0,73.0,Arizona,2.0,71.0,Xavier,1.0,2.0
+2017,E8,4,Gonzaga,1.0,83.0,Xavier,11.0,59.0,Gonzaga,1.0,24.0
+2017,F4,5,South Carolina,7.0,73.0,Gonzaga,1.0,77.0,Gonzaga,2.0,-4.0
+2017,F4,5,Oregon,3.0,76.0,UNC,1.0,77.0,UNC,2.0,-1.0
+2017,Championship,6,Gonzaga,1.0,65.0,UNC,1.0,71.0,UNC,2.0,-6.0
+2018,R64,1,Villanova,1.0,87.0,Radford,16.0,61.0,Villanova,1.0,26.0
+2018,R64,1,Virginia Tech,8.0,83.0,Alabama,9.0,86.0,Alabama,2.0,-3.0
+2018,R64,1,West Virginia,5.0,85.0,Murray State,12.0,68.0,West Virginia,1.0,17.0
+2018,R64,1,Wichita State,4.0,75.0,Marshall,13.0,81.0,Marshall,2.0,-6.0
+2018,R64,1,Florida,6.0,77.0,St. Bonaventure,11.0,62.0,Florida,1.0,15.0
+2018,R64,1,Texas Tech,3.0,70.0,Stephen F. Austin,14.0,60.0,Texas Tech,1.0,10.0
+2018,R64,1,Arkansas,7.0,62.0,Butler,10.0,79.0,Butler,2.0,-17.0
+2018,R64,1,Purdue,2.0,74.0,Cal State Fullerton,15.0,48.0,Purdue,1.0,26.0
+2018,R32,2,Villanova,1.0,81.0,Alabama,9.0,58.0,Villanova,1.0,23.0
+2018,R32,2,West Virginia,5.0,94.0,Marshall,13.0,71.0,West Virginia,1.0,23.0
+2018,R32,2,Florida,6.0,66.0,Texas Tech,3.0,69.0,Texas Tech,2.0,-3.0
+2018,R32,2,Butler,10.0,73.0,Purdue,2.0,76.0,Purdue,2.0,-3.0
+2018,S16,3,Villanova,1.0,90.0,West Virginia,5.0,78.0,Villanova,1.0,12.0
+2018,S16,3,Texas Tech,3.0,78.0,Purdue,2.0,65.0,Texas Tech,1.0,13.0
+2018,E8,4,Villanova,1.0,71.0,Texas Tech,3.0,59.0,Villanova,1.0,12.0
+2018,R64,1,Kansas,1.0,76.0,Penn,16.0,60.0,Kansas,1.0,16.0
+2018,R64,1,Seton Hall,8.0,94.0,NC State,9.0,83.0,Seton Hall,1.0,11.0
+2018,R64,1,Clemson,5.0,79.0,New Mexico State,12.0,68.0,Clemson,1.0,11.0
+2018,R64,1,Auburn,4.0,62.0,College of Charleston,13.0,58.0,Auburn,1.0,4.0
+2018,R64,1,TCU,6.0,52.0,Syracuse,11.0,57.0,Syracuse,2.0,-5.0
+2018,R64,1,Michigan State,3.0,82.0,Bucknell,14.0,78.0,Michigan State,1.0,4.0
+2018,R64,1,Rhode Island,7.0,83.0,Oklahoma,10.0,78.0,Rhode Island,1.0,5.0
+2018,R64,1,Duke,2.0,89.0,Iona,15.0,67.0,Duke,1.0,22.0
+2018,R32,2,Kansas,1.0,83.0,Seton Hall,8.0,79.0,Kansas,1.0,4.0
+2018,R32,2,Clemson,5.0,84.0,Auburn,4.0,53.0,Clemson,1.0,31.0
+2018,R32,2,Syracuse,11.0,55.0,Michigan State,3.0,53.0,Syracuse,1.0,2.0
+2018,R32,2,Rhode Island,7.0,62.0,Duke,2.0,87.0,Duke,2.0,-25.0
+2018,S16,3,Kansas,1.0,80.0,Clemson,5.0,76.0,Kansas,1.0,4.0
+2018,S16,3,Syracuse,11.0,65.0,Duke,2.0,69.0,Duke,2.0,-4.0
+2018,E8,4,Kansas,1.0,85.0,Duke,2.0,81.0,Kansas,1.0,4.0
+2018,R64,1,Virginia,1.0,54.0,UMBC,16.0,74.0,UMBC,2.0,-20.0
+2018,R64,1,Creighton,8.0,59.0,Kansas State,9.0,69.0,Kansas State,2.0,-10.0
+2018,R64,1,Kentucky,5.0,78.0,Davidson,12.0,73.0,Kentucky,1.0,5.0
+2018,R64,1,Arizona,4.0,68.0,Buffalo,13.0,89.0,Buffalo,2.0,-21.0
+2018,R64,1,Miami (FL),6.0,62.0,Loyola (IL),11.0,64.0,Loyola (IL),2.0,-2.0
+2018,R64,1,Tennessee,3.0,73.0,Wright State,14.0,47.0,Tennessee,1.0,26.0
+2018,R64,1,Nevada,7.0,87.0,Texas,10.0,83.0,Nevada,1.0,4.0
+2018,R64,1,Cincinnati,2.0,68.0,Georgia State,15.0,53.0,Cincinnati,1.0,15.0
+2018,R32,2,UMBC,16.0,43.0,Kansas State,9.0,50.0,Kansas State,2.0,-7.0
+2018,R32,2,Kentucky,5.0,95.0,Buffalo,13.0,75.0,Kentucky,1.0,20.0
+2018,R32,2,Loyola (IL),11.0,63.0,Tennessee,3.0,62.0,Loyola (IL),1.0,1.0
+2018,R32,2,Nevada,7.0,75.0,Cincinnati,2.0,73.0,Nevada,1.0,2.0
+2018,S16,3,Kansas State,9.0,61.0,Kentucky,5.0,58.0,Kansas State,1.0,3.0
+2018,S16,3,Loyola (IL),11.0,69.0,Nevada,7.0,68.0,Loyola (IL),1.0,1.0
+2018,E8,4,Kansas State,9.0,62.0,Loyola (IL),11.0,78.0,Loyola (IL),2.0,-16.0
+2018,R64,1,Xavier,1.0,102.0,Texas Southern,16.0,83.0,Xavier,1.0,19.0
+2018,R64,1,Missouri,8.0,54.0,Florida State,9.0,67.0,Florida State,2.0,-13.0
+2018,R64,1,Ohio State,5.0,81.0,South Dakota State,12.0,73.0,Ohio State,1.0,8.0
+2018,R64,1,Gonzaga,4.0,68.0,UNC Greensboro,13.0,64.0,Gonzaga,1.0,4.0
+2018,R64,1,Houston,6.0,67.0,San Diego State,11.0,65.0,Houston,1.0,2.0
+2018,R64,1,Michigan,3.0,61.0,Montana,14.0,47.0,Michigan,1.0,14.0
+2018,R64,1,Texas A&M,7.0,73.0,Providence,10.0,69.0,Texas A&M,1.0,4.0
+2018,R64,1,UNC,2.0,84.0,Lipscomb,15.0,66.0,UNC,1.0,18.0
+2018,R32,2,Xavier,1.0,70.0,Florida State,9.0,75.0,Florida State,2.0,-5.0
+2018,R32,2,Ohio State,5.0,84.0,Gonzaga,4.0,90.0,Gonzaga,2.0,-6.0
+2018,R32,2,Houston,6.0,63.0,Michigan,3.0,64.0,Michigan,2.0,-1.0
+2018,R32,2,Texas A&M,7.0,86.0,UNC,2.0,65.0,Texas A&M,1.0,21.0
+2018,S16,3,Florida State,9.0,75.0,Gonzaga,4.0,60.0,Florida State,1.0,15.0
+2018,S16,3,Michigan,3.0,99.0,Texas A&M,7.0,72.0,Michigan,1.0,27.0
+2018,E8,4,Florida State,9.0,54.0,Michigan,3.0,58.0,Michigan,2.0,-4.0
+2018,F4,5,Villanova,1.0,95.0,Kansas,1.0,79.0,Villanova,1.0,16.0
+2018,F4,5,Loyola (IL),11.0,57.0,Michigan,3.0,69.0,Michigan,2.0,-12.0
+2018,Championship,6,Villanova,1.0,79.0,Michigan,3.0,62.0,Villanova,1.0,17.0
+2019,R64,1,Duke,1.0,85.0,North Dakota State,16.0,62.0,Duke,1.0,23.0
+2019,R64,1,VCU,8.0,58.0,UCF,9.0,73.0,UCF,2.0,-15.0
+2019,R64,1,Mississippi State,5.0,76.0,Liberty,12.0,80.0,Liberty,2.0,-4.0
+2019,R64,1,Virginia Tech,4.0,66.0,Saint Louis,13.0,52.0,Virginia Tech,1.0,14.0
+2019,R64,1,Maryland,6.0,79.0,Belmont,11.0,77.0,Maryland,1.0,2.0
+2019,R64,1,LSU,3.0,79.0,Yale,14.0,74.0,LSU,1.0,5.0
+2019,R64,1,Louisville,7.0,76.0,Minnesota,10.0,86.0,Minnesota,2.0,-10.0
+2019,R64,1,Michigan State,2.0,76.0,Bradley,15.0,65.0,Michigan State,1.0,11.0
+2019,R32,2,Duke,1.0,77.0,UCF,9.0,76.0,Duke,1.0,1.0
+2019,R32,2,Liberty,12.0,58.0,Virginia Tech,4.0,67.0,Virginia Tech,2.0,-9.0
+2019,R32,2,Maryland,6.0,67.0,LSU,3.0,69.0,LSU,2.0,-2.0
+2019,R32,2,Minnesota,10.0,50.0,Michigan State,2.0,70.0,Michigan State,2.0,-20.0
+2019,S16,3,Duke,1.0,75.0,Virginia Tech,4.0,73.0,Duke,1.0,2.0
+2019,S16,3,LSU,3.0,63.0,Michigan State,2.0,80.0,Michigan State,2.0,-17.0
+2019,E8,4,Duke,1.0,67.0,Michigan State,2.0,68.0,Michigan State,2.0,-1.0
+2019,R64,1,UNC,1.0,88.0,Iona,16.0,73.0,UNC,1.0,15.0
+2019,R64,1,Utah State,8.0,61.0,Washington,9.0,78.0,Washington,2.0,-17.0
+2019,R64,1,Auburn,5.0,78.0,New Mexico State,12.0,77.0,Auburn,1.0,1.0
+2019,R64,1,Kansas,4.0,87.0,Northeastern,13.0,53.0,Kansas,1.0,34.0
+2019,R64,1,Iowa State,6.0,59.0,Ohio State,11.0,62.0,Ohio State,2.0,-3.0
+2019,R64,1,Houston,3.0,84.0,Georgia State,14.0,55.0,Houston,1.0,29.0
+2019,R64,1,Wofford,7.0,84.0,Seton Hall,10.0,68.0,Wofford,1.0,16.0
+2019,R64,1,Kentucky,2.0,79.0,Abilene Christian,15.0,44.0,Kentucky,1.0,35.0
+2019,R32,2,UNC,1.0,81.0,Washington,9.0,59.0,UNC,1.0,22.0
+2019,R32,2,Auburn,5.0,89.0,Kansas,4.0,75.0,Auburn,1.0,14.0
+2019,R32,2,Ohio State,11.0,59.0,Houston,3.0,74.0,Houston,2.0,-15.0
+2019,R32,2,Wofford,7.0,56.0,Kentucky,2.0,62.0,Kentucky,2.0,-6.0
+2019,S16,3,UNC,1.0,80.0,Auburn,5.0,97.0,Auburn,2.0,-17.0
+2019,S16,3,Houston,3.0,58.0,Kentucky,2.0,62.0,Kentucky,2.0,-4.0
+2019,E8,4,Auburn,5.0,77.0,Kentucky,2.0,71.0,Auburn,1.0,6.0
+2019,R64,1,Virginia,1.0,71.0,Gardner-Webb,16.0,56.0,Virginia,1.0,15.0
+2019,R64,1,Ole Miss,8.0,72.0,Oklahoma,9.0,95.0,Oklahoma,2.0,-23.0
+2019,R64,1,Wisconsin,5.0,54.0,Oregon,12.0,72.0,Oregon,2.0,-18.0
+2019,R64,1,Kansas State,4.0,64.0,UC Irvine,13.0,70.0,UC Irvine,2.0,-6.0
+2019,R64,1,Villanova,6.0,61.0,Saint Mary's,11.0,57.0,Villanova,1.0,4.0
+2019,R64,1,Purdue,3.0,61.0,Old Dominion,14.0,48.0,Purdue,1.0,13.0
+2019,R64,1,Cincinnati,7.0,72.0,Iowa,10.0,79.0,Iowa,2.0,-7.0
+2019,R64,1,Tennessee,2.0,77.0,Colgate,15.0,70.0,Tennessee,1.0,7.0
+2019,R32,2,Virginia,1.0,63.0,Oklahoma,9.0,51.0,Virginia,1.0,12.0
+2019,R32,2,Oregon,12.0,73.0,UC Irvine,13.0,54.0,Oregon,1.0,19.0
+2019,R32,2,Villanova,6.0,61.0,Purdue,3.0,87.0,Purdue,2.0,-26.0
+2019,R32,2,Iowa,10.0,77.0,Tennessee,2.0,83.0,Tennessee,2.0,-6.0
+2019,S16,3,Virginia,1.0,53.0,Oregon,12.0,49.0,Virginia,1.0,4.0
+2019,S16,3,Purdue,3.0,99.0,Tennessee,2.0,94.0,Purdue,1.0,5.0
+2019,E8,4,Virginia,1.0,80.0,Purdue,3.0,75.0,Virginia,1.0,5.0
+2019,R64,1,Gonzaga,1.0,87.0,FDU,16.0,49.0,Gonzaga,1.0,38.0
+2019,R64,1,Syracuse,8.0,69.0,Baylor,9.0,78.0,Baylor,2.0,-9.0
+2019,R64,1,Marquette,5.0,64.0,Murray State,12.0,83.0,Murray State,2.0,-19.0
+2019,R64,1,Florida State,4.0,76.0,Vermont,13.0,69.0,Florida State,1.0,7.0
+2019,R64,1,Buffalo,6.0,91.0,Arizona State,11.0,74.0,Buffalo,1.0,17.0
+2019,R64,1,Texas Tech,3.0,72.0,Northern Kentucky,14.0,57.0,Texas Tech,1.0,15.0
+2019,R64,1,Nevada,7.0,61.0,Florida,10.0,70.0,Florida,2.0,-9.0
+2019,R64,1,Michigan,2.0,74.0,Montana,15.0,55.0,Michigan,1.0,19.0
+2019,R32,2,Gonzaga,1.0,83.0,Baylor,9.0,71.0,Gonzaga,1.0,12.0
+2019,R32,2,Murray State,12.0,62.0,Florida State,4.0,90.0,Florida State,2.0,-28.0
+2019,R32,2,Buffalo,6.0,58.0,Texas Tech,3.0,78.0,Texas Tech,2.0,-20.0
+2019,R32,2,Florida,10.0,49.0,Michigan,2.0,64.0,Michigan,2.0,-15.0
+2019,S16,3,Gonzaga,1.0,72.0,Florida State,4.0,58.0,Gonzaga,1.0,14.0
+2019,S16,3,Texas Tech,3.0,63.0,Michigan,2.0,44.0,Texas Tech,1.0,19.0
+2019,E8,4,Gonzaga,1.0,69.0,Texas Tech,3.0,75.0,Texas Tech,2.0,-6.0
+2019,F4,5,Michigan State,2.0,51.0,Texas Tech,3.0,61.0,Texas Tech,2.0,-10.0
+2019,F4,5,Auburn,5.0,62.0,Virginia,1.0,63.0,Virginia,2.0,-1.0
+2019,Championship,6,Texas Tech,3.0,77.0,Virginia,1.0,85.0,Virginia,2.0,-8.0
+2021,R64,1,Michigan,1.0,82.0,Texas Southern,16.0,66.0,Michigan,1.0,16.0
+2021,R64,1,LSU,8.0,76.0,St. Bonaventure,9.0,61.0,LSU,1.0,15.0
+2021,R64,1,Colorado,5.0,96.0,Georgetown,12.0,73.0,Colorado,1.0,23.0
+2021,R64,1,Florida State,4.0,64.0,UNC Greensboro,13.0,54.0,Florida State,1.0,10.0
+2021,R64,1,BYU,6.0,62.0,UCLA,11.0,73.0,UCLA,2.0,-11.0
+2021,R64,1,Texas,3.0,52.0,Abilene Christian,14.0,53.0,Abilene Christian,2.0,-1.0
+2021,R64,1,UConn,7.0,54.0,Maryland,10.0,63.0,Maryland,2.0,-9.0
+2021,R64,1,Alabama,2.0,68.0,Iona,15.0,55.0,Alabama,1.0,13.0
+2021,R32,2,Michigan,1.0,86.0,LSU,8.0,78.0,Michigan,1.0,8.0
+2021,R32,2,Colorado,5.0,53.0,Florida State,4.0,71.0,Florida State,2.0,-18.0
+2021,R32,2,UCLA,11.0,67.0,Abilene Christian,14.0,47.0,UCLA,1.0,20.0
+2021,R32,2,Maryland,10.0,77.0,Alabama,2.0,96.0,Alabama,2.0,-19.0
+2021,S16,3,Michigan,1.0,76.0,Florida State,4.0,58.0,Michigan,1.0,18.0
+2021,S16,3,UCLA,11.0,88.0,Alabama,2.0,78.0,UCLA,1.0,10.0
+2021,E8,4,Michigan,1.0,49.0,UCLA,11.0,51.0,UCLA,2.0,-2.0
+2021,R64,1,Illinois,1.0,78.0,Drexel,16.0,49.0,Illinois,1.0,29.0
+2021,R64,1,Loyola (IL),8.0,71.0,Georgia Tech,9.0,60.0,Loyola (IL),1.0,11.0
+2021,R64,1,Tennessee,5.0,56.0,Oregon State,12.0,70.0,Oregon State,2.0,-14.0
+2021,R64,1,Oklahoma State,4.0,69.0,Liberty,13.0,60.0,Oklahoma State,1.0,9.0
+2021,R64,1,San Diego State,6.0,62.0,Syracuse,11.0,78.0,Syracuse,2.0,-16.0
+2021,R64,1,West Virginia,3.0,84.0,Morehead State,14.0,67.0,West Virginia,1.0,17.0
+2021,R64,1,Clemson,7.0,56.0,Rutgers,10.0,60.0,Rutgers,2.0,-4.0
+2021,R64,1,Houston,2.0,87.0,Cleveland State,15.0,56.0,Houston,1.0,31.0
+2021,R32,2,Illinois,1.0,58.0,Loyola (IL),8.0,71.0,Loyola (IL),2.0,-13.0
+2021,R32,2,Oregon State,12.0,80.0,Oklahoma State,4.0,70.0,Oregon State,1.0,10.0
+2021,R32,2,Syracuse,11.0,75.0,West Virginia,3.0,72.0,Syracuse,1.0,3.0
+2021,R32,2,Rutgers,10.0,60.0,Houston,2.0,63.0,Houston,2.0,-3.0
+2021,S16,3,Loyola (IL),8.0,58.0,Oregon State,12.0,65.0,Oregon State,2.0,-7.0
+2021,S16,3,Syracuse,11.0,46.0,Houston,2.0,62.0,Houston,2.0,-16.0
+2021,E8,4,Oregon State,12.0,61.0,Houston,2.0,67.0,Houston,2.0,-6.0
+2021,R64,1,Baylor,1.0,79.0,Hartford,16.0,55.0,Baylor,1.0,24.0
+2021,R64,1,UNC,8.0,62.0,Wisconsin,9.0,85.0,Wisconsin,2.0,-23.0
+2021,R64,1,Villanova,5.0,73.0,Winthrop,12.0,63.0,Villanova,1.0,10.0
+2021,R64,1,Purdue,4.0,69.0,North Texas,13.0,78.0,North Texas,2.0,-9.0
+2021,R64,1,Texas Tech,6.0,65.0,Utah State,11.0,53.0,Texas Tech,1.0,12.0
+2021,R64,1,Arkansas,3.0,85.0,Colgate,14.0,68.0,Arkansas,1.0,17.0
+2021,R64,1,Florida,7.0,75.0,Virginia Tech,10.0,70.0,Florida,1.0,5.0
+2021,R64,1,Ohio State,2.0,72.0,Oral Roberts,15.0,75.0,Oral Roberts,2.0,-3.0
+2021,R32,2,Baylor,1.0,76.0,Wisconsin,9.0,63.0,Baylor,1.0,13.0
+2021,R32,2,Villanova,5.0,84.0,North Texas,13.0,61.0,Villanova,1.0,23.0
+2021,R32,2,Texas Tech,6.0,66.0,Arkansas,3.0,68.0,Arkansas,2.0,-2.0
+2021,R32,2,Florida,7.0,78.0,Oral Roberts,15.0,81.0,Oral Roberts,2.0,-3.0
+2021,S16,3,Baylor,1.0,62.0,Villanova,5.0,51.0,Baylor,1.0,11.0
+2021,S16,3,Arkansas,3.0,72.0,Oral Roberts,15.0,70.0,Arkansas,1.0,2.0
+2021,E8,4,Baylor,1.0,81.0,Arkansas,3.0,72.0,Baylor,1.0,9.0
+2021,R64,1,Gonzaga,1.0,98.0,Norfolk State,16.0,55.0,Gonzaga,1.0,43.0
+2021,R64,1,Oklahoma,8.0,72.0,Missouri,9.0,68.0,Oklahoma,1.0,4.0
+2021,R64,1,Creighton,5.0,63.0,UC Santa Barbara,12.0,62.0,Creighton,1.0,1.0
+2021,R64,1,Virginia,4.0,58.0,Ohio,13.0,62.0,Ohio,2.0,-4.0
+2021,R64,1,USC,6.0,72.0,Drake,11.0,56.0,USC,1.0,16.0
+2021,R64,1,Kansas,3.0,93.0,Eastern Washington,14.0,84.0,Kansas,1.0,9.0
+2021,R64,1,Oregon,7.0,,VCU,10.0,,,,
+2021,R64,1,Iowa,2.0,86.0,Grand Canyon,15.0,74.0,Iowa,1.0,12.0
+2021,R32,2,Gonzaga,1.0,87.0,Oklahoma,8.0,71.0,Gonzaga,1.0,16.0
+2021,R32,2,Creighton,5.0,72.0,Ohio,13.0,58.0,Creighton,1.0,14.0
+2021,R32,2,USC,6.0,85.0,Kansas,3.0,51.0,USC,1.0,34.0
+2021,R32,2,Oregon,7.0,95.0,Iowa,2.0,80.0,Oregon,1.0,15.0
+2021,S16,3,Gonzaga,1.0,83.0,Creighton,5.0,65.0,Gonzaga,1.0,18.0
+2021,S16,3,USC,6.0,82.0,Oregon,7.0,68.0,USC,1.0,14.0
+2021,E8,4,Gonzaga,1.0,85.0,USC,6.0,66.0,Gonzaga,1.0,19.0
+2021,F4,5,UCLA,11.0,90.0,Gonzaga,1.0,93.0,Gonzaga,2.0,-3.0
+2021,F4,5,Houston,2.0,59.0,Baylor,1.0,78.0,Baylor,2.0,-19.0
+2021,Championship,6,Gonzaga,1.0,70.0,Baylor,1.0,86.0,Baylor,2.0,-16.0
+2022,R64,1,Baylor,1.0,85.0,Norfolk State,16.0,49.0,Baylor,1.0,36.0
+2022,R64,1,UNC,8.0,95.0,Marquette,9.0,63.0,UNC,1.0,32.0
+2022,R64,1,Saint Mary's,5.0,82.0,Indiana,12.0,53.0,Saint Mary's,1.0,29.0
+2022,R64,1,UCLA,4.0,57.0,Akron,13.0,53.0,UCLA,1.0,4.0
+2022,R64,1,Texas,6.0,81.0,Virginia Tech,11.0,73.0,Texas,1.0,8.0
+2022,R64,1,Purdue,3.0,78.0,Yale,14.0,56.0,Purdue,1.0,22.0
+2022,R64,1,Murray State,7.0,92.0,San Francisco,10.0,87.0,Murray State,1.0,5.0
+2022,R64,1,Kentucky,2.0,79.0,Saint Peter's,15.0,85.0,Saint Peter's,2.0,-6.0
+2022,R32,2,Baylor,1.0,86.0,UNC,8.0,93.0,UNC,2.0,-7.0
+2022,R32,2,Saint Mary's,5.0,56.0,UCLA,4.0,72.0,UCLA,2.0,-16.0
+2022,R32,2,Texas,6.0,71.0,Purdue,3.0,81.0,Purdue,2.0,-10.0
+2022,R32,2,Murray State,7.0,60.0,Saint Peter's,15.0,70.0,Saint Peter's,2.0,-10.0
+2022,S16,3,UNC,8.0,73.0,UCLA,4.0,66.0,UNC,1.0,7.0
+2022,S16,3,Purdue,3.0,64.0,Saint Peter's,15.0,67.0,Saint Peter's,2.0,-3.0
+2022,E8,4,UNC,8.0,69.0,Saint Peter's,15.0,49.0,UNC,1.0,20.0
+2022,R64,1,Kansas,1.0,83.0,Texas Southern,16.0,56.0,Kansas,1.0,27.0
+2022,R64,1,San Diego State,8.0,69.0,Creighton,9.0,72.0,Creighton,2.0,-3.0
+2022,R64,1,Iowa,5.0,63.0,Richmond,12.0,67.0,Richmond,2.0,-4.0
+2022,R64,1,Providence,4.0,66.0,South Dakota State,13.0,57.0,Providence,1.0,9.0
+2022,R64,1,LSU,6.0,54.0,Iowa State,11.0,59.0,Iowa State,2.0,-5.0
+2022,R64,1,Wisconsin,3.0,67.0,Colgate,14.0,60.0,Wisconsin,1.0,7.0
+2022,R64,1,USC,7.0,66.0,Miami (FL),10.0,68.0,Miami (FL),2.0,-2.0
+2022,R64,1,Auburn,2.0,80.0,Jacksonville State,15.0,61.0,Auburn,1.0,19.0
+2022,R32,2,Kansas,1.0,79.0,Creighton,9.0,72.0,Kansas,1.0,7.0
+2022,R32,2,Richmond,12.0,51.0,Providence,4.0,79.0,Providence,2.0,-28.0
+2022,R32,2,Iowa State,11.0,54.0,Wisconsin,3.0,49.0,Iowa State,1.0,5.0
+2022,R32,2,Miami (FL),10.0,79.0,Auburn,2.0,61.0,Miami (FL),1.0,18.0
+2022,S16,3,Kansas,1.0,66.0,Providence,4.0,61.0,Kansas,1.0,5.0
+2022,S16,3,Iowa State,11.0,56.0,Miami (FL),10.0,70.0,Miami (FL),2.0,-14.0
+2022,E8,4,Kansas,1.0,76.0,Miami (FL),10.0,50.0,Kansas,1.0,26.0
+2022,R64,1,Arizona,1.0,87.0,Wright State,16.0,70.0,Arizona,1.0,17.0
+2022,R64,1,Seton Hall,8.0,42.0,TCU,9.0,69.0,TCU,2.0,-27.0
+2022,R64,1,Houston,5.0,82.0,UAB,12.0,68.0,Houston,1.0,14.0
+2022,R64,1,Illinois,4.0,54.0,Chattanooga,13.0,53.0,Illinois,1.0,1.0
+2022,R64,1,Colorado State,6.0,63.0,Michigan,11.0,75.0,Michigan,2.0,-12.0
+2022,R64,1,Tennessee,3.0,88.0,Longwood,14.0,56.0,Tennessee,1.0,32.0
+2022,R64,1,Ohio State,7.0,54.0,Loyola (IL),10.0,41.0,Ohio State,1.0,13.0
+2022,R64,1,Villanova,2.0,80.0,Delaware,15.0,60.0,Villanova,1.0,20.0
+2022,R32,2,Arizona,1.0,85.0,TCU,9.0,80.0,Arizona,1.0,5.0
+2022,R32,2,Houston,5.0,68.0,Illinois,4.0,53.0,Houston,1.0,15.0
+2022,R32,2,Michigan,11.0,76.0,Tennessee,3.0,68.0,Michigan,1.0,8.0
+2022,R32,2,Ohio State,7.0,61.0,Villanova,2.0,71.0,Villanova,2.0,-10.0
+2022,S16,3,Arizona,1.0,60.0,Houston,5.0,72.0,Houston,2.0,-12.0
+2022,S16,3,Michigan,11.0,55.0,Villanova,2.0,63.0,Villanova,2.0,-8.0
+2022,E8,4,Houston,5.0,44.0,Villanova,2.0,50.0,Villanova,2.0,-6.0
+2022,R64,1,Gonzaga,1.0,93.0,Georgia State,16.0,72.0,Gonzaga,1.0,21.0
+2022,R64,1,Boise State,8.0,53.0,Memphis,9.0,64.0,Memphis,2.0,-11.0
+2022,R64,1,UConn,5.0,63.0,New Mexico State,12.0,70.0,New Mexico State,2.0,-7.0
+2022,R64,1,Arkansas,4.0,75.0,Vermont,13.0,71.0,Arkansas,1.0,4.0
+2022,R64,1,Alabama,6.0,64.0,Notre Dame,11.0,78.0,Notre Dame,2.0,-14.0
+2022,R64,1,Texas Tech,3.0,97.0,Montana State,14.0,62.0,Texas Tech,1.0,35.0
+2022,R64,1,Michigan State,7.0,74.0,Davidson,10.0,73.0,Michigan State,1.0,1.0
+2022,R64,1,Duke,2.0,78.0,Cal State Fullerton,15.0,61.0,Duke,1.0,17.0
+2022,R32,2,Gonzaga,1.0,82.0,Memphis,9.0,78.0,Gonzaga,1.0,4.0
+2022,R32,2,New Mexico State,12.0,48.0,Arkansas,4.0,53.0,Arkansas,2.0,-5.0
+2022,R32,2,Notre Dame,11.0,53.0,Texas Tech,3.0,59.0,Texas Tech,2.0,-6.0
+2022,R32,2,Michigan State,7.0,76.0,Duke,2.0,85.0,Duke,2.0,-9.0
+2022,S16,3,Gonzaga,1.0,68.0,Arkansas,4.0,74.0,Arkansas,2.0,-6.0
+2022,S16,3,Texas Tech,3.0,73.0,Duke,2.0,78.0,Duke,2.0,-5.0
+2022,E8,4,Arkansas,4.0,69.0,Duke,2.0,78.0,Duke,2.0,-9.0
+2022,F4,5,UNC,8.0,81.0,Duke,2.0,77.0,UNC,1.0,4.0
+2022,F4,5,Kansas,1.0,81.0,Villanova,2.0,65.0,Kansas,1.0,16.0
+2022,Championship,6,UNC,8.0,69.0,Kansas,1.0,72.0,Kansas,2.0,-3.0
+2023,R64,1,Purdue,1.0,58.0,FDU,16.0,63.0,FDU,2.0,-5.0
+2023,R64,1,Memphis,8.0,65.0,Florida Atlantic,9.0,66.0,Florida Atlantic,2.0,-1.0
+2023,R64,1,Duke,5.0,74.0,Oral Roberts,12.0,51.0,Duke,1.0,23.0
+2023,R64,1,Tennessee,4.0,58.0,Louisiana,13.0,55.0,Tennessee,1.0,3.0
+2023,R64,1,Kentucky,6.0,61.0,Providence,11.0,53.0,Kentucky,1.0,8.0
+2023,R64,1,Kansas State,3.0,77.0,Montana State,14.0,65.0,Kansas State,1.0,12.0
+2023,R64,1,Michigan State,7.0,72.0,USC,10.0,62.0,Michigan State,1.0,10.0
+2023,R64,1,Marquette,2.0,78.0,Vermont,15.0,61.0,Marquette,1.0,17.0
+2023,R32,2,FDU,16.0,70.0,Florida Atlantic,9.0,78.0,Florida Atlantic,2.0,-8.0
+2023,R32,2,Duke,5.0,52.0,Tennessee,4.0,65.0,Tennessee,2.0,-13.0
+2023,R32,2,Kentucky,6.0,69.0,Kansas State,3.0,75.0,Kansas State,2.0,-6.0
+2023,R32,2,Michigan State,7.0,69.0,Marquette,2.0,60.0,Michigan State,1.0,9.0
+2023,S16,3,Florida Atlantic,9.0,62.0,Tennessee,4.0,55.0,Florida Atlantic,1.0,7.0
+2023,S16,3,Kansas State,3.0,98.0,Michigan State,7.0,93.0,Kansas State,1.0,5.0
+2023,E8,4,Florida Atlantic,9.0,79.0,Kansas State,3.0,76.0,Florida Atlantic,1.0,3.0
+2023,R64,1,Houston,1.0,63.0,Northern Kentucky,16.0,52.0,Houston,1.0,11.0
+2023,R64,1,Iowa,8.0,75.0,Auburn,9.0,83.0,Auburn,2.0,-8.0
+2023,R64,1,Miami (FL),5.0,63.0,Drake,12.0,56.0,Miami (FL),1.0,7.0
+2023,R64,1,Indiana,4.0,71.0,Kent State,13.0,60.0,Indiana,1.0,11.0
+2023,R64,1,Iowa State,6.0,41.0,Pitt,11.0,59.0,Pitt,2.0,-18.0
+2023,R64,1,Xavier,3.0,72.0,Kennesaw State,14.0,67.0,Xavier,1.0,5.0
+2023,R64,1,Texas A&M,7.0,59.0,Penn State,10.0,76.0,Penn State,2.0,-17.0
+2023,R64,1,Texas,2.0,81.0,Colgate,15.0,61.0,Texas,1.0,20.0
+2023,R32,2,Houston,1.0,81.0,Auburn,9.0,64.0,Houston,1.0,17.0
+2023,R32,2,Miami (FL),5.0,85.0,Indiana,4.0,69.0,Miami (FL),1.0,16.0
+2023,R32,2,Pitt,11.0,73.0,Xavier,3.0,84.0,Xavier,2.0,-11.0
+2023,R32,2,Penn State,10.0,66.0,Texas,2.0,71.0,Texas,2.0,-5.0
+2023,S16,3,Houston,1.0,75.0,Miami (FL),5.0,89.0,Miami (FL),2.0,-14.0
+2023,S16,3,Xavier,3.0,71.0,Texas,2.0,83.0,Texas,2.0,-12.0
+2023,E8,4,Miami (FL),5.0,88.0,Texas,2.0,81.0,Miami (FL),1.0,7.0
+2023,R64,1,Alabama,1.0,96.0,Texas A&M-Corpus Christi,16.0,75.0,Alabama,1.0,21.0
+2023,R64,1,Maryland,8.0,67.0,West Virginia,9.0,65.0,Maryland,1.0,2.0
+2023,R64,1,San Diego State,5.0,63.0,College of Charleston,12.0,57.0,San Diego State,1.0,6.0
+2023,R64,1,Virginia,4.0,67.0,Furman,13.0,68.0,Furman,2.0,-1.0
+2023,R64,1,Creighton,6.0,72.0,NC State,11.0,63.0,Creighton,1.0,9.0
+2023,R64,1,Baylor,3.0,74.0,UC Santa Barbara,14.0,56.0,Baylor,1.0,18.0
+2023,R64,1,Missouri,7.0,76.0,Utah State,10.0,65.0,Missouri,1.0,11.0
+2023,R64,1,Arizona,2.0,55.0,Princeton,15.0,59.0,Princeton,2.0,-4.0
+2023,R32,2,Alabama,1.0,73.0,Maryland,8.0,51.0,Alabama,1.0,22.0
+2023,R32,2,San Diego State,5.0,75.0,Furman,13.0,52.0,San Diego State,1.0,23.0
+2023,R32,2,Creighton,6.0,85.0,Baylor,3.0,76.0,Creighton,1.0,9.0
+2023,R32,2,Missouri,7.0,63.0,Princeton,15.0,78.0,Princeton,2.0,-15.0
+2023,S16,3,Alabama,1.0,64.0,San Diego State,5.0,71.0,San Diego State,2.0,-7.0
+2023,S16,3,Creighton,6.0,86.0,Princeton,15.0,75.0,Creighton,1.0,11.0
+2023,E8,4,San Diego State,5.0,57.0,Creighton,6.0,56.0,San Diego State,1.0,1.0
+2023,R64,1,Kansas,1.0,96.0,Howard,16.0,68.0,Kansas,1.0,28.0
+2023,R64,1,Arkansas,8.0,73.0,Illinois,9.0,63.0,Arkansas,1.0,10.0
+2023,R64,1,Saint Mary's,5.0,63.0,VCU,12.0,51.0,Saint Mary's,1.0,12.0
+2023,R64,1,UConn,4.0,87.0,Iona,13.0,63.0,UConn,1.0,24.0
+2023,R64,1,TCU,6.0,72.0,Arizona State,11.0,70.0,TCU,1.0,2.0
+2023,R64,1,Gonzaga,3.0,82.0,Grand Canyon,14.0,70.0,Gonzaga,1.0,12.0
+2023,R64,1,Northwestern,7.0,75.0,Boise State,10.0,67.0,Northwestern,1.0,8.0
+2023,R64,1,UCLA,2.0,86.0,UNC Asheville,15.0,53.0,UCLA,1.0,33.0
+2023,R32,2,Kansas,1.0,71.0,Arkansas,8.0,72.0,Arkansas,2.0,-1.0
+2023,R32,2,Saint Mary's,5.0,55.0,UConn,4.0,70.0,UConn,2.0,-15.0
+2023,R32,2,TCU,6.0,81.0,Gonzaga,3.0,84.0,Gonzaga,2.0,-3.0
+2023,R32,2,Northwestern,7.0,63.0,UCLA,2.0,68.0,UCLA,2.0,-5.0
+2023,S16,3,Arkansas,8.0,65.0,UConn,4.0,88.0,UConn,2.0,-23.0
+2023,S16,3,Gonzaga,3.0,79.0,UCLA,2.0,76.0,Gonzaga,1.0,3.0
+2023,E8,4,UConn,4.0,82.0,Gonzaga,3.0,54.0,UConn,1.0,28.0
+2023,F4,5,Florida Atlantic,9.0,71.0,San Diego State,5.0,72.0,San Diego State,2.0,-1.0
+2023,F4,5,Miami (FL),5.0,59.0,UConn,4.0,72.0,UConn,2.0,-13.0
+2023,Championship,6,San Diego State,5.0,59.0,UConn,4.0,76.0,UConn,2.0,-17.0
+2024,R64,1,UConn,1.0,91.0,Stetson,16.0,52.0,UConn,1.0,39.0
+2024,R64,1,Florida Atlantic,8.0,65.0,Northwestern,9.0,77.0,Northwestern,2.0,-12.0
+2024,R64,1,San Diego State,5.0,69.0,UAB,12.0,65.0,San Diego State,1.0,4.0
+2024,R64,1,Auburn,4.0,76.0,Yale,13.0,78.0,Yale,2.0,-2.0
+2024,R64,1,BYU,6.0,67.0,Duquesne,11.0,71.0,Duquesne,2.0,-4.0
+2024,R64,1,Illinois,3.0,85.0,Morehead State,14.0,69.0,Illinois,1.0,16.0
+2024,R64,1,Washington State,7.0,66.0,Drake,10.0,61.0,Washington State,1.0,5.0
+2024,R64,1,Iowa State,2.0,82.0,South Dakota State,15.0,65.0,Iowa State,1.0,17.0
+2024,R32,2,UConn,1.0,75.0,Northwestern,9.0,58.0,UConn,1.0,17.0
+2024,R32,2,San Diego State,5.0,85.0,Yale,13.0,57.0,San Diego State,1.0,28.0
+2024,R32,2,Duquesne,11.0,63.0,Illinois,3.0,89.0,Illinois,2.0,-26.0
+2024,R32,2,Washington State,7.0,56.0,Iowa State,2.0,67.0,Iowa State,2.0,-11.0
+2024,S16,3,UConn,1.0,82.0,San Diego State,5.0,52.0,UConn,1.0,30.0
+2024,S16,3,Illinois,3.0,72.0,Iowa State,2.0,69.0,Illinois,1.0,3.0
+2024,E8,4,UConn,1.0,77.0,Illinois,3.0,52.0,UConn,1.0,25.0
+2024,R64,1,Purdue,1.0,78.0,Grambling,16.0,50.0,Purdue,1.0,28.0
+2024,R64,1,Utah State,8.0,88.0,TCU,9.0,72.0,Utah State,1.0,16.0
+2024,R64,1,Gonzaga,5.0,86.0,McNeese,12.0,65.0,Gonzaga,1.0,21.0
+2024,R64,1,Kansas,4.0,93.0,Samford,13.0,89.0,Kansas,1.0,4.0
+2024,R64,1,South Carolina,6.0,73.0,Oregon,11.0,87.0,Oregon,2.0,-14.0
+2024,R64,1,Creighton,3.0,77.0,Akron,14.0,60.0,Creighton,1.0,17.0
+2024,R64,1,Texas,7.0,56.0,Colorado State,10.0,44.0,Texas,1.0,12.0
+2024,R64,1,Tennessee,2.0,83.0,Saint Peter's,15.0,49.0,Tennessee,1.0,34.0
+2024,R32,2,Purdue,1.0,106.0,Utah State,8.0,67.0,Purdue,1.0,39.0
+2024,R32,2,Gonzaga,5.0,89.0,Kansas,4.0,68.0,Gonzaga,1.0,21.0
+2024,R32,2,Oregon,11.0,73.0,Creighton,3.0,86.0,Creighton,2.0,-13.0
+2024,R32,2,Texas,7.0,58.0,Tennessee,2.0,62.0,Tennessee,2.0,-4.0
+2024,S16,3,Purdue,1.0,80.0,Gonzaga,5.0,68.0,Purdue,1.0,12.0
+2024,S16,3,Creighton,3.0,75.0,Tennessee,2.0,82.0,Tennessee,2.0,-7.0
+2024,E8,4,Purdue,1.0,72.0,Tennessee,2.0,66.0,Purdue,1.0,6.0
+2024,R64,1,Houston,1.0,86.0,Longwood,16.0,46.0,Houston,1.0,40.0
+2024,R64,1,Nebraska,8.0,83.0,Texas A&M,9.0,98.0,Texas A&M,2.0,-15.0
+2024,R64,1,Wisconsin,5.0,61.0,James Madison,12.0,72.0,James Madison,2.0,-11.0
+2024,R64,1,Duke,4.0,64.0,Vermont,13.0,47.0,Duke,1.0,17.0
+2024,R64,1,Texas Tech,6.0,67.0,NC State,11.0,80.0,NC State,2.0,-13.0
+2024,R64,1,Kentucky,3.0,76.0,Oakland,14.0,80.0,Oakland,2.0,-4.0
+2024,R64,1,Florida,7.0,100.0,Colorado,10.0,102.0,Colorado,2.0,-2.0
+2024,R64,1,Marquette,2.0,87.0,Western Kentucky,15.0,69.0,Marquette,1.0,18.0
+2024,R32,2,Houston,1.0,100.0,Texas A&M,9.0,95.0,Houston,1.0,5.0
+2024,R32,2,James Madison,12.0,55.0,Duke,4.0,93.0,Duke,2.0,-38.0
+2024,R32,2,NC State,11.0,79.0,Oakland,14.0,73.0,NC State,1.0,6.0
+2024,R32,2,Colorado,10.0,77.0,Marquette,2.0,81.0,Marquette,2.0,-4.0
+2024,S16,3,Houston,1.0,51.0,Duke,4.0,54.0,Duke,2.0,-3.0
+2024,S16,3,NC State,11.0,67.0,Marquette,2.0,58.0,NC State,1.0,9.0
+2024,E8,4,Duke,4.0,64.0,NC State,11.0,76.0,NC State,2.0,-12.0
+2024,R64,1,UNC,1.0,90.0,Wagner,16.0,62.0,UNC,1.0,28.0
+2024,R64,1,Mississippi State,8.0,51.0,Michigan State,9.0,69.0,Michigan State,2.0,-18.0
+2024,R64,1,Saint Mary's,5.0,66.0,Grand Canyon,12.0,75.0,Grand Canyon,2.0,-9.0
+2024,R64,1,Alabama,4.0,109.0,College of Charleston,13.0,96.0,Alabama,1.0,13.0
+2024,R64,1,Clemson,6.0,77.0,New Mexico,11.0,56.0,Clemson,1.0,21.0
+2024,R64,1,Baylor,3.0,92.0,Colgate,14.0,67.0,Baylor,1.0,25.0
+2024,R64,1,Dayton,7.0,63.0,Nevada,10.0,60.0,Dayton,1.0,3.0
+2024,R64,1,Arizona,2.0,85.0,Long Beach State,15.0,65.0,Arizona,1.0,20.0
+2024,R32,2,UNC,1.0,85.0,Michigan State,9.0,69.0,UNC,1.0,16.0
+2024,R32,2,Grand Canyon,12.0,61.0,Alabama,4.0,72.0,Alabama,2.0,-11.0
+2024,R32,2,Clemson,6.0,72.0,Baylor,3.0,64.0,Clemson,1.0,8.0
+2024,R32,2,Dayton,7.0,68.0,Arizona,2.0,78.0,Arizona,2.0,-10.0
+2024,S16,3,UNC,1.0,87.0,Alabama,4.0,89.0,Alabama,2.0,-2.0
+2024,S16,3,Clemson,6.0,77.0,Arizona,2.0,72.0,Clemson,1.0,5.0
+2024,E8,4,Alabama,4.0,89.0,Clemson,6.0,82.0,Alabama,1.0,7.0
+2024,F4,5,UConn,1.0,86.0,Alabama,4.0,72.0,UConn,1.0,14.0
+2024,F4,5,Purdue,1.0,63.0,NC State,11.0,50.0,Purdue,1.0,13.0
+2024,Championship,6,UConn,1.0,75.0,Purdue,1.0,60.0,UConn,1.0,15.0
+2025,R64,1,Duke,1.0,93.0,Mount St. Mary's,16.0,49.0,Duke,1.0,44.0
+2025,R64,1,Mississippi State,8.0,72.0,Baylor,9.0,75.0,Baylor,2.0,-3.0
+2025,R64,1,Oregon,5.0,81.0,Liberty,12.0,52.0,Oregon,1.0,29.0
+2025,R64,1,Arizona,4.0,93.0,Akron,13.0,65.0,Arizona,1.0,28.0
+2025,R64,1,BYU,6.0,80.0,VCU,11.0,71.0,BYU,1.0,9.0
+2025,R64,1,Wisconsin,3.0,85.0,Montana,14.0,66.0,Wisconsin,1.0,19.0
+2025,R64,1,Saint Mary's,7.0,59.0,Vanderbilt,10.0,56.0,Saint Mary's,1.0,3.0
+2025,R64,1,Alabama,2.0,90.0,Robert Morris,15.0,81.0,Alabama,1.0,9.0
+2025,R32,2,Duke,1.0,89.0,Baylor,9.0,66.0,Duke,1.0,23.0
+2025,R32,2,Oregon,5.0,83.0,Arizona,4.0,87.0,Arizona,2.0,-4.0
+2025,R32,2,BYU,6.0,91.0,Wisconsin,3.0,89.0,BYU,1.0,2.0
+2025,R32,2,Saint Mary's,7.0,66.0,Alabama,2.0,80.0,Alabama,2.0,-14.0
+2025,S16,3,Duke,1.0,100.0,Arizona,4.0,93.0,Duke,1.0,7.0
+2025,S16,3,BYU,6.0,88.0,Alabama,2.0,113.0,Alabama,2.0,-25.0
+2025,E8,4,Duke,1.0,85.0,Alabama,2.0,65.0,Duke,1.0,20.0
+2025,R64,1,Houston,1.0,78.0,SIU-Edwardsville,16.0,40.0,Houston,1.0,38.0
+2025,R64,1,Gonzaga,8.0,89.0,Georgia,9.0,68.0,Gonzaga,1.0,21.0
+2025,R64,1,Clemson,5.0,67.0,McNeese,12.0,69.0,McNeese,2.0,-2.0
+2025,R64,1,Purdue,4.0,75.0,High Point,13.0,63.0,Purdue,1.0,12.0
+2025,R64,1,Illinois,6.0,86.0,Xavier,11.0,73.0,Illinois,1.0,13.0
+2025,R64,1,Kentucky,3.0,76.0,Troy,14.0,57.0,Kentucky,1.0,19.0
+2025,R64,1,UCLA,7.0,72.0,Utah State,10.0,47.0,UCLA,1.0,25.0
+2025,R64,1,Tennessee,2.0,77.0,Wofford,15.0,62.0,Tennessee,1.0,15.0
+2025,R32,2,Houston,1.0,81.0,Gonzaga,8.0,76.0,Houston,1.0,5.0
+2025,R32,2,McNeese,12.0,62.0,Purdue,4.0,76.0,Purdue,2.0,-14.0
+2025,R32,2,Illinois,6.0,75.0,Kentucky,3.0,84.0,Kentucky,2.0,-9.0
+2025,R32,2,UCLA,7.0,58.0,Tennessee,2.0,67.0,Tennessee,2.0,-9.0
+2025,S16,3,Houston,1.0,62.0,Purdue,4.0,60.0,Houston,1.0,2.0
+2025,S16,3,Kentucky,3.0,65.0,Tennessee,2.0,78.0,Tennessee,2.0,-13.0
+2025,E8,4,Houston,1.0,69.0,Tennessee,2.0,50.0,Houston,1.0,19.0
+2025,R64,1,Auburn,1.0,83.0,Alabama State,16.0,63.0,Auburn,1.0,20.0
+2025,R64,1,Louisville,8.0,75.0,Creighton,9.0,89.0,Creighton,2.0,-14.0
+2025,R64,1,Michigan,5.0,68.0,UC San Diego,12.0,65.0,Michigan,1.0,3.0
+2025,R64,1,Texas A&M,4.0,80.0,Yale,13.0,71.0,Texas A&M,1.0,9.0
+2025,R64,1,Ole Miss,6.0,71.0,UNC,11.0,64.0,Ole Miss,1.0,7.0
+2025,R64,1,Iowa State,3.0,82.0,Lipscomb,14.0,55.0,Iowa State,1.0,27.0
+2025,R64,1,Marquette,7.0,66.0,New Mexico,10.0,75.0,New Mexico,2.0,-9.0
+2025,R64,1,Michigan State,2.0,87.0,Bryant,15.0,62.0,Michigan State,1.0,25.0
+2025,R32,2,Auburn,1.0,82.0,Creighton,9.0,70.0,Auburn,1.0,12.0
+2025,R32,2,Michigan,5.0,91.0,Texas A&M,4.0,79.0,Michigan,1.0,12.0
+2025,R32,2,Ole Miss,6.0,91.0,Iowa State,3.0,78.0,Ole Miss,1.0,13.0
+2025,R32,2,New Mexico,10.0,63.0,Michigan State,2.0,71.0,Michigan State,2.0,-8.0
+2025,S16,3,Auburn,1.0,78.0,Michigan,5.0,65.0,Auburn,1.0,13.0
+2025,S16,3,Ole Miss,6.0,70.0,Michigan State,2.0,73.0,Michigan State,2.0,-3.0
+2025,E8,4,Auburn,1.0,70.0,Michigan State,2.0,64.0,Auburn,1.0,6.0
+2025,R64,1,Florida,1.0,95.0,Norfolk State,16.0,69.0,Florida,1.0,26.0
+2025,R64,1,UConn,8.0,67.0,Oklahoma,9.0,59.0,UConn,1.0,8.0
+2025,R64,1,Memphis,5.0,70.0,Colorado State,12.0,78.0,Colorado State,2.0,-8.0
+2025,R64,1,Maryland,4.0,81.0,Grand Canyon,13.0,49.0,Maryland,1.0,32.0
+2025,R64,1,Missouri,6.0,57.0,Drake,11.0,67.0,Drake,2.0,-10.0
+2025,R64,1,Texas Tech,3.0,82.0,UNC Wilmington,14.0,72.0,Texas Tech,1.0,10.0
+2025,R64,1,Kansas,7.0,72.0,Arkansas,10.0,79.0,Arkansas,2.0,-7.0
+2025,R64,1,St. John's (NY),2.0,83.0,Omaha,15.0,53.0,St. John's (NY),1.0,30.0
+2025,R32,2,Florida,1.0,77.0,UConn,8.0,75.0,Florida,1.0,2.0
+2025,R32,2,Colorado State,12.0,71.0,Maryland,4.0,72.0,Maryland,2.0,-1.0
+2025,R32,2,Drake,11.0,64.0,Texas Tech,3.0,77.0,Texas Tech,2.0,-13.0
+2025,R32,2,Arkansas,10.0,75.0,St. John's (NY),2.0,66.0,Arkansas,1.0,9.0
+2025,S16,3,Florida,1.0,87.0,Maryland,4.0,71.0,Florida,1.0,16.0
+2025,S16,3,Texas Tech,3.0,85.0,Arkansas,10.0,83.0,Texas Tech,1.0,2.0
+2025,E8,4,Florida,1.0,84.0,Texas Tech,3.0,79.0,Florida,1.0,5.0
+2025,F4,5,Duke,1.0,67.0,Houston,1.0,70.0,Houston,2.0,-3.0
+2025,F4,5,Auburn,1.0,73.0,Florida,1.0,79.0,Florida,2.0,-6.0
+2025,Championship,6,Houston,1.0,63.0,Florida,1.0,65.0,Florida,2.0,-2.0

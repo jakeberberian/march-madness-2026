@@ -1,0 +1,78 @@
+{
+  "weights": {
+    "LogReg": 0.21106037590555668,
+    "XGBoost": 0.177611339176738,
+    "RandomForest": 0.20403442974046718,
+    "NeuralNet": 0.19814259902962553,
+    "BayesLR": 0.20915125614761274
+  },
+  "metrics": {
+    "LogReg": {
+      "cv_auc": 0.8157,
+      "val_auc": 0.8163,
+      "val_ll": 0.4996,
+      "val_brier": 0.1699
+    },
+    "XGBoost": {
+      "cv_auc": 0.7482,
+      "val_auc": 0.8239,
+      "val_ll": 0.5141,
+      "val_brier": 0.1707
+    },
+    "RandomForest": {
+      "cv_auc": 0.802,
+      "val_auc": 0.8087,
+      "val_ll": 0.5154,
+      "val_brier": 0.1733
+    },
+    "NeuralNet": {
+      "cv_auc": 0.7903,
+      "val_auc": 0.8261,
+      "val_ll": 0.4946,
+      "val_brier": 0.169
+    },
+    "BayesLR": {
+      "cv_auc": 0,
+      "val_auc": 0.812,
+      "val_ll": 0.5142,
+      "val_brier": 0.1741
+    }
+  },
+  "feature_cols": [
+    "seed_diff",
+    "seed_sum",
+    "seed_diff_sq",
+    "abs_seed_diff",
+    "higher_seed_is_team1",
+    "round_x_seeddiff",
+    "is_upset_seed",
+    "seed1_sq",
+    "seed2_sq",
+    "seed_product",
+    "log_seed_ratio",
+    "SRS_diff",
+    "SOS_diff",
+    "eFG%_diff",
+    "TOV%_diff",
+    "ORtg_diff",
+    "Pace_diff",
+    "ORB%_diff",
+    "AdjOE_diff",
+    "AdjDE_diff",
+    "Barthag_diff",
+    "AdjTempo_diff",
+    "WAB_diff",
+    "Pace_avg",
+    "ORtg_avg",
+    "SRS_sum",
+    "AdjOE_avg",
+    "AdjDE_avg",
+    "AdjTempo_avg",
+    "OE_vs_DE_1",
+    "OE_vs_DE_2"
+  ],
+  "ensemble_logloss": 0.4001,
+  "ensemble_auc": 0.8957,
+  "seed": 202654,
+  "timestamp": "2026-03-18T22:14:59.220766"
+}
